@@ -1,0 +1,43 @@
+site_name: Online recipes
+repo_url: https://github.com/billbrod/recipes
+
+theme:
+  name: 'material'
+  features:
+   - navigation.expand
+   - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode palette
+
+plugins:
+    - tags:
+        tags_file: tags.md
+    - search
+    - literate-nav:
+          nav_file: docs/SUMMARY.md     # navigation file for literate navigation
+    - section-index                    # plugin for creating section index
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.betterem
+  - pymdownx.superfences
+
+extra_javascript:
+  - javascripts/ingredient_scaling.js
+
+nav:
+    - Home: index.md
+    - Recipes: recipes/
+    - Tags: tags.md
