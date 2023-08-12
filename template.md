@@ -1,3 +1,14 @@
+---
+tags:
+  - dish:main,side,dessert,drink,etc
+  - protein:lentils,beef,chicken,tofu,etc
+  - ingredient:sweet potatoes,cabbage,etc
+  - cuisine:thai,chinese,etc
+  - context:entertaining,holiday
+  - difficulty:easy,normal,involved
+---
+<!-- Tags can have colon, but no space around it -->
+
 # Recipe title
 
 ![Recipe picture](../images/image.jpg)

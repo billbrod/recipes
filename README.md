@@ -6,8 +6,11 @@ TODO:
 - [ ] Deploy to custom domain
 - [ ] Add tags for: entertaining/having guests, effort-level (easy, normal,
       involved)
+  - group tags into categories: cuisine, dish, context, protein, ingredient,
+    difficulty
 - [ ] Add recipes!
 - [ ] Add random selection of recipes to the index?
+  - can do it based on tags? might need to be on tags page for that
 - [ ] Convert trello recipes
 - [ ] Convert tandoor recipes
 - [ ] Convert old Food.org file?
