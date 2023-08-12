@@ -1,11 +1,13 @@
 site_name: Online recipes
 repo_url: https://github.com/billbrod/recipes
+edit_uri: edit/main/docs/
 
 theme:
   name: 'material'
   features:
    - navigation.expand
    - navigation.top
+   - content.action.edit
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -33,9 +35,15 @@ markdown_extensions:
   - attr_list
   - pymdownx.betterem
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
-  - javascripts/ingredient_scaling.js
+  - javascripts/ingredient_initialization.js
+  - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+extra_css:
+  - stylesheets/extra.css
 
 nav:
     - Home: index.md

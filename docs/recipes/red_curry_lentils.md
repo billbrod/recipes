@@ -38,8 +38,8 @@ In this vegetarian main inspired by Indian dal, lentils are cooked with an aroma
 
 ## Directions
 
-1. In a Dutch oven or pot, heat 2 tablespoons olive oil over medium-high. Add the sweet potatoes and cook, stirring occasionally, until browned all over, 5 to 7 minutes. Transfer the browned sweet potatoes to a plate and set aside.
-2. Add the remaining 1 tablespoon olive oil to the pot and set the heat to medium-low. Add the onion and cook, stirring occasionally, until translucent, 4 to 6 minutes. Add the curry paste, garlic, ginger, chile and turmeric, and cook until fragrant, about 1 minute.
+1. In a Dutch oven or pot, heat *2*{.ingredient-num} tablespoons olive oil over medium-high. Add the sweet potatoes and cook, stirring occasionally, until browned all over, 5 to 7 minutes. Transfer the browned sweet potatoes to a plate and set aside.
+2. Add the remaining *1*{.ingredient-num} tablespoon olive oil to the pot and set the heat to medium-low. Add the onion and cook, stirring occasionally, until translucent, 4 to 6 minutes. Add the curry paste, garlic, ginger, chile and turmeric, and cook until fragrant, about 1 minute.
 3. Add the lentils, stock, salt and browned sweet potatoes to the pot and bring to a boil over high. Lower the heat and simmer, uncovered, stirring occasionally, until the lentils are just tender, 20 to 25 minutes.
 4. Add the coconut milk and simmer, stirring occasionally, until the liquid has reduced and the lentils are creamy and falling apart, 15 to 20 minutes.
 5. Add the spinach and stir until just wilted, 2 to 3 minutes. Off the heat, stir in the lime juice and season with salt to taste.
