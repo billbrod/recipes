@@ -25,11 +25,13 @@ document$.subscribe(function() {
     $('#serves-input').val(parseInt(orig[1]))
     $('#serves').append(plus_button)
     $('#plus-button').click(increment)
+    // these elements (with ingredient-num class already attached) are those
+    // found in line, and we just need to wrap them in <a> tag and encode their original values
     $('.ingredient-num').each(function(idx, elem){
         $(elem).wrap('<a/>')
         $(elem).attr('data-original', $(elem).text())
     })
-    // encode original ingredient values
+    // encode original ingredient values and wrap them in <a> tag
     const ingredients = $('#ingredients').next().children()
     const parse_ingr = RegExp('([0-9-. ]+) ')
     $.each(ingredients, function(idx, elem){
@@ -41,6 +43,7 @@ document$.subscribe(function() {
             $(elem).prepend(`<a class='ingredient-num' data-original=${orig[1]}>${orig[1]}</a>`)
         }
     })
+    // when the serves number changes, update the
     $('#serves-input').on("change", function(){
         orig = $('#serves').attr('data-original')
         new_val = $('#serves-input').val()
