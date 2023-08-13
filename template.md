@@ -5,7 +5,7 @@ tags:
   - ingredient:sweet potatoes,cabbage,etc
   - cuisine:thai,chinese,etc
   - context:entertaining,holiday
-  - difficulty:easy,normal,involved
+  - difficulty:easy,involved
 ---
 <!-- Tags can have colon, but no space around it -->
 
@@ -21,6 +21,8 @@ values can be added (e.g., "active time", "cooking time", etc) -->
 - Time: 
 
 ## Description
+
+## Ingredients
 { #ingredients }
 
 <!-- Decimals are allowed, fractions are not. For ranges, use only a single dash
