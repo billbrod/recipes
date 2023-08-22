@@ -35,9 +35,9 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
     cards = recipes['cards']
     if card_idx is not None:
         cards = cards[slice(*card_idx)]
-    for rec in cards:
+    for rec_i, rec in enumerate(cards):
         title = rec['name']
-        print(f"Converting {title}")
+        print(f"Converting {card_idx[0]+rec_i}, {title}")
         slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_')
         # was inconsistent with section name
         contents = rec['desc'].replace('# ', '## ').replace('# Instructions', '# Directions')
