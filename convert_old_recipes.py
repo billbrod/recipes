@@ -5,6 +5,7 @@ import os
 import os.path as op
 import requests
 import time
+from typing import Tuple, Optional
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -16,8 +17,11 @@ def cli():
 
 @cli.command()
 @click.argument('json_path')
-@click.option('--output_dir', default='converted_recipes/', help="Where to save outputs")
-def convert_trello(json_path, output_dir='converted_recipes/'):
+@click.option('--output_dir', default='converted_recipes/', help="Where to save outputs", show_default=True)
+@click.option('--card_idx', nargs=2, default=(0, 10), help="Index of cards to save out (as the start and stop value in the range).", show_default=True)
+def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
+                   card_idx: Optional[Tuple[int]] = (0, 10)):
+    print(card_idx)
     with open(json_path, 'r') as f:
         recipes = json.load(f)
     os.makedirs(op.join(output_dir, 'images'), exist_ok=True)
@@ -27,7 +31,11 @@ def convert_trello(json_path, output_dir='converted_recipes/'):
     # the lists the cards were in, which we'll use to grab keywords
     lists = recipes['lists']
     lists = {l['id']: l['name'].lower() for l in lists}
-    for rec in recipes['cards'][:10]:
+    # recipes themselves
+    cards = recipes['cards']
+    if card_idx is not None:
+        cards = cards[slice(*card_idx)]
+    for rec in cards:
         title = rec['name']
         print(f"Converting {title}")
         slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_')
