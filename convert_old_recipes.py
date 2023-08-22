@@ -4,7 +4,9 @@ import json
 import os
 import os.path as op
 import requests
-import getpass
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
 
 @click.group()
@@ -19,39 +21,59 @@ def convert_trello(json_path, output_dir='converted_recipes/'):
     with open(json_path, 'r') as f:
         recipes = json.load(f)
     os.makedirs(op.join(output_dir, 'images'), exist_ok=True)
-    user = input("Enter Trello username: ")
-    passwd = getpass.getpass(prompt=f"Enter Trello password for {user}: ")
+    driver = webdriver.Chrome()
+    # first time we open up the browser, need to login
+    logged_in = False
+    # the lists the cards were in, which we'll use to grab keywords
+    lists = recipes['lists']
+    lists = {l['id']: l['name'].lower() for l in lists}
     for rec in recipes['cards'][:10]:
         title = rec['name']
-        slug = '_'.join(title.lower().split(' ')[:3])
+        print(f"Converting {title}")
+        slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_')
         # was inconsistent with section name
         contents = rec['desc'].replace('# ', '## ').replace('# Instructions', '# Directions')
         contents = contents.replace('# Ingredients', '# Ingredients { #ingredients }')
-        contents += (
-            f"""\n\n## Comments
-            Total comments: {rec['badges']['comments']}
-            """
-        )
+        contents += f"\n\n## Comments\n\nTotal comments: {rec['badges']['comments']}\n\n"
+        if rec['badges']['comments']:
+            comments = ""
+            driver.get(rec['url'])
+            if not logged_in:
+                time.sleep(30)
+                driver.get(rec['url'])
+                logged_in = True
+            # can take a while to render the card
+            time.sleep(3)
+            for cmt in driver.find_elements(By.CLASS_NAME, 'phenom-desc'):
+                author = cmt.find_element(By.TAG_NAME, 'span').text
+                date = cmt.find_element(By.TAG_NAME, 'a').text
+                txt = cmt.find_element(By.TAG_NAME, 'p').text
+                comments += f"- {author}, {date}: {txt}\n\n"
+            contents += comments
         if 'scaled' in rec['cover']:
-            # get the largest image
-            img = rec['cover']['scaled'][-1]['url']
-            r = requests.get(img, stream=True, auth=(user, passwd))
-            if r.status_code == 200:
-                with open(op.join(output_dir, 'images', f'{slug}.png'), 'wb') as f:
-                    for chunk in r:
-                        f.write(chunk)
+            for i, img in enumerate(rec['attachments']):
+                driver.get(img['url'])
+                if not logged_in:
+                    time.sleep(30)
+                    driver.get(img['url'])
+                    logged_in = True
+                img = driver.find_element(By.TAG_NAME, 'img')
+                with open(op.join(output_dir, 'images', f'{slug}-{i}.png'), 'wb') as f:
+                    f.write(img.screenshot_as_png)
         else:
             img = None
-        header = f"# {title}\n\n"
+        keywords = [lists[rec['idList']]]
+        keywords += [l['name'].lower() for l in rec['labels']]
+        keywords = '\n  - '.join(keywords)
+        header = f"---\ntags:\n  - {keywords}\n---\n"
+        header += f"# {title}\n\n"
         if img is not None:
-            header += f"![Recipe picture][../images/{slug}.png]\n\n"
+            for j in range(i+1):
+                header += f"![Recipe picture][../images/{slug}-{j}.png]\n\n"
         contents = header + contents
         with open(op.join(output_dir, f'{slug}.md'), 'w') as f:
             f.write(contents)
-        # - FIGURE OUT if I can get column, make that a tag
-        # - still failing to get images (code 401)
-        # - SOME recpies just include an image, that I took, so download those as well-- might already do? skip if no image or description
-        # - print default in click helpstring
+    driver.close()
 
 
 if __name__ == '__main__':
