@@ -15,6 +15,7 @@ TODO:
 - [ ] Convert tandoor recipes
 - [ ] add bean cooking times from Cool Beans and from [Rancho Gordo
       pdf](https://static1.squarespace.com/static/560ad766e4b0bd9a7a2bdab8/t/5e95f2b52aae8d6545a08797/1586885302075/pressure_cooking.pdf)
+- [ ] little "recipes": salt:water ratio for pasta, iced tea, vinegrette, stuff from Ratio?
 - [ ] Convert old Food.org file?
     - has some useful tables, links, etc, in addition to recipes
     - way to do this might to re-import any where the source is importable --
