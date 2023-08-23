@@ -1,9 +1,10 @@
 document$.subscribe(function() {
     // get the original serves value
-    const parse_serves = RegExp('Serves: +([0-9]+)')
+    const parse_serves = RegExp('Serves: +([0-9]+)(.*)')
     orig = parse_serves.exec($('#serves').text())
+    console.log(orig)
     $('#serves').attr('data-original', orig[1])
-    $('#serves').text(orig[0].replace(orig[1], '  '))
+    $('#serves').text(orig[0].replace(orig[1], '  ').replace(orig[2], ''))
     // create the +/- buttons
     // these two svgs are based on the material-plus and material-minus icons
     const plus = '<span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2Z"></path></svg></span>'
@@ -24,6 +25,7 @@ document$.subscribe(function() {
     $('#serves').append(input)
     $('#serves-input').val(parseInt(orig[1]))
     $('#serves').append(plus_button)
+    $('#serves').append(orig[2])
     $('#plus-button').click(increment)
     // these elements (with ingredient-num class already attached) are those
     // found in line, and we just need to wrap them in <a> tag and encode their original values

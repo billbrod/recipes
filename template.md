@@ -13,7 +13,8 @@ tags:
 
 ![Recipe picture](../images/image.jpg)
 
-<!-- Serves has to be a single number, no dashes, no text -->
+<!-- Serves has to be a single number, no dashes, but text is allowed after the
+number (e.g., 24 cookies) -->
 - Serves:
 { #serves }
 <!-- Time is not parsed, so anything can be input here, and additional
