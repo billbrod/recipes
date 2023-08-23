@@ -41,11 +41,12 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
     for rec_i, rec in enumerate(cards):
         title = rec['name']
         print(f"Converting {card_idx[0]+rec_i}, {title}")
-        slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_')
+        slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_').replace('(', '').replace()
+        slug = re.sub("[(),.'&\"’]", "", slug)
         # was inconsistent with section name
         contents = rec['desc'].replace('# ', '## ').replace('Instructions', 'Directions')
         contents = contents.replace('# Ingredients', '# Ingredients { #ingredients }')
-        contents = contents.replace('Time:', '- Time:')
+        contents = contents.replace('Time:', '- Time:').replace('’', "'")
         contents = re.sub('Serves: ([0-9]+).*', '- Serves: \\1\n{ #serves }', contents)
         contents += f"\n\n## Comments\n\nTotal comments: {rec['badges']['comments']}\n\n"
         if rec['badges']['comments']:
