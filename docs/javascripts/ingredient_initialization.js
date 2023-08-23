@@ -2,7 +2,6 @@ document$.subscribe(function() {
     // get the original serves value
     const parse_serves = RegExp('Serves: +([0-9]+)(.*)')
     orig = parse_serves.exec($('#serves').text())
-    console.log(orig)
     $('#serves').attr('data-original', orig[1])
     $('#serves').text(orig[0].replace(orig[1], '  ').replace(orig[2], ''))
     // create the +/- buttons
@@ -35,14 +34,13 @@ document$.subscribe(function() {
     })
     // encode original ingredient values and wrap them in <a> tag
     const ingredients = $('#ingredients').next().children()
-    const parse_ingr = RegExp('([0-9-. ]+) ')
+    const parse_ingr = RegExp('([0-9-.]+) ', 'g')
     $.each(ingredients, function(idx, elem){
         orig = parse_ingr.exec($(elem).text())
         if (orig !== null) {
-            $(elem).text($(elem).text().replace(parse_ingr, function(match) {
-                return " "
+            $(elem).html($(elem).html().replaceAll(parse_ingr, function(match) {
+                return `<a class='ingredient-num' data-original=${match}>${match}</a> `
             }))
-            $(elem).prepend(`<a class='ingredient-num' data-original=${orig[1]}>${orig[1]}</a>`)
         }
     })
     // when the serves number changes, update the
