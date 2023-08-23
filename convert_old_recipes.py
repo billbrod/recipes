@@ -44,9 +44,9 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
         slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_').replace('(', '').replace()
         slug = re.sub("[(),.'&\"’]", "", slug)
         # was inconsistent with section name
-        contents = rec['desc'].replace('# ', '## ').replace('Instructions', 'Directions')
+        contents = rec['desc'].replace('# ', '## ').replace('Instructions', 'Directions').replace('Preparation', 'Directions')
         contents = contents.replace('# Ingredients', '# Ingredients { #ingredients }')
-        contents = contents.replace('Time:', '- Time:').replace('’', "'")
+        contents = contents.replace('Time:', '- Time:').replace('’', "'").replace('Yields:', 'Serves:')
         contents = re.sub('Serves: ([0-9]+).*', '- Serves: \\1\n{ #serves }', contents)
         contents += f"\n\n## Comments\n\nTotal comments: {rec['badges']['comments']}\n\n"
         if rec['badges']['comments']:
@@ -96,7 +96,7 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
         header = f"---\ntags:\n  - {keywords}\n---\n"
         header += f"# {title}\n\n"
         for img in imgs:
-            header += f"![Recipe picture][../images/{img}]\n\n"
+            header += f"![Recipe picture](../images/{img})\n\n"
         contents = header + contents
         if len(links):
             links = '\n- '.join(links)
