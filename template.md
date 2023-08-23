@@ -22,8 +22,7 @@ values can be added (e.g., "active time", "cooking time", etc) -->
 
 ## Description
 
-## Ingredients
-{ #ingredients }
+## Ingredients { #ingredients }
 
 <!-- Decimals are allowed, fractions are not. For ranges, use only a single dash
 and no spaces between the numbers. -->
