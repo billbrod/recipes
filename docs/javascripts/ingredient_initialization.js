@@ -34,7 +34,7 @@ document$.subscribe(function() {
     })
     // encode original ingredient values and wrap them in <a> tag
     const ingredients = $('#ingredients').next().children()
-    const parse_ingr = RegExp('([0-9-.]+) ', 'g')
+    const parse_ingr = RegExp('([0-9-.]+)', 'g')
     $.each(ingredients, function(idx, elem){
         orig = parse_ingr.exec($(elem).text())
         if (orig !== null) {
