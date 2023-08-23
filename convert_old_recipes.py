@@ -2,6 +2,7 @@
 import click
 import json
 import os
+import re
 import os.path as op
 import requests
 import time
@@ -21,11 +22,13 @@ def cli():
 @click.option('--card_idx', nargs=2, default=(0, 10), help="Index of cards to save out (as the start and stop value in the range).", show_default=True)
 def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
                    card_idx: Optional[Tuple[int]] = (0, 10)):
-    print(card_idx)
     with open(json_path, 'r') as f:
         recipes = json.load(f)
     os.makedirs(op.join(output_dir, 'images'), exist_ok=True)
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions() ;
+    prefs = {"download.default_directory": op.join(output_dir, 'images')};
+    options.add_experimental_option("prefs", prefs);
+    driver = webdriver.Chrome(options=options)
     # first time we open up the browser, need to login
     logged_in = False
     # the lists the cards were in, which we'll use to grab keywords
@@ -40,13 +43,16 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
         print(f"Converting {card_idx[0]+rec_i}, {title}")
         slug = '_'.join(title.lower().split(' ')[:3]).replace(',', '').replace('…', '_')
         # was inconsistent with section name
-        contents = rec['desc'].replace('# ', '## ').replace('# Instructions', '# Directions')
+        contents = rec['desc'].replace('# ', '## ').replace('Instructions', 'Directions')
         contents = contents.replace('# Ingredients', '# Ingredients { #ingredients }')
+        contents = contents.replace('Time:', '- Time:')
+        contents = re.sub('Serves: ([0-9]+).*', '- Serves: \\1\n{ #serves }', contents)
         contents += f"\n\n## Comments\n\nTotal comments: {rec['badges']['comments']}\n\n"
         if rec['badges']['comments']:
             comments = ""
             driver.get(rec['url'])
             if not logged_in:
+                print("Please login within 30 seconds.")
                 time.sleep(30)
                 driver.get(rec['url'])
                 logged_in = True
@@ -55,30 +61,46 @@ def convert_trello(json_path: str, output_dir: str = 'converted_recipes/',
             for cmt in driver.find_elements(By.CLASS_NAME, 'phenom-desc'):
                 author = cmt.find_element(By.TAG_NAME, 'span').text
                 date = cmt.find_element(By.TAG_NAME, 'a').text
-                txt = cmt.find_element(By.TAG_NAME, 'p').text
+                txt = cmt.find_element(By.TAG_NAME, 'p').get_attribute('innerHTML')
                 comments += f"- {author}, {date}: {txt}\n\n"
             contents += comments
-        if 'scaled' in rec['cover']:
-            for i, img in enumerate(rec['attachments']):
+        imgs = []
+        links = []
+        i = 0
+        for img in rec['attachments']:
+            if 'trello' not in img['url']:
+                # then this isn't an image, but a link, and we don't need to
+                # visit the page, just store it
+                links.append(img['url'])
+
+            else:
                 driver.get(img['url'])
                 if not logged_in:
+                    print("Please login within 30 seconds.")
                     time.sleep(30)
                     driver.get(img['url'])
                     logged_in = True
-                img = driver.find_element(By.TAG_NAME, 'img')
-                with open(op.join(output_dir, 'images', f'{slug}-{i}.png'), 'wb') as f:
-                    f.write(img.screenshot_as_png)
-        else:
-            img = None
+                # if it was a txt or pdf, we downloaded it with the driver.get, and so we're fine
+                if img['url'].endswith('pdf') or img['url'].endswith('txt'):
+                    imgs.append(op.split(img['url'])[-1])
+                else:
+                    img = driver.find_element(By.TAG_NAME, 'img')
+                    with open(op.join(output_dir, 'images', f'{slug}-{i}.png'), 'wb') as f:
+                        f.write(img.screenshot_as_png)
+                    imgs.append(f'{slug}-{i}.png')
+                    i += 1
         keywords = [lists[rec['idList']]]
         keywords += [l['name'].lower() for l in rec['labels']]
         keywords = '\n  - '.join(keywords)
         header = f"---\ntags:\n  - {keywords}\n---\n"
         header += f"# {title}\n\n"
-        if img is not None:
-            for j in range(i+1):
-                header += f"![Recipe picture][../images/{slug}-{j}.png]\n\n"
+        for img in imgs:
+            header += f"![Recipe picture][../images/{img}]\n\n"
         contents = header + contents
+        if len(links):
+            links = '\n- '.join(links)
+            links = f'## Extra links\n\n- {links}\n'
+            contents += links
         with open(op.join(output_dir, f'{slug}.md'), 'w') as f:
             f.write(contents)
     driver.close()
