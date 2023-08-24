@@ -1,0 +1,30 @@
+# inspired by https://lannonbr.com/blog/2020-03-31-github-actions-deploy-to-netlify/
+name: Deploy to Netlify
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout repo
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+
+      - name: Install Dependencies
+        run: |
+          npm install netlify-cli
+          pip install -r requirements.txt
+
+      - name: Build site
+        run: mkdocs build
+
+      # Deploy the site with netlify-cli
+      - name: Deploy Site
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: netlify deploy --dir=site/ --prod
