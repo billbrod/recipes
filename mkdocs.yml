@@ -49,3 +49,4 @@ nav:
     - Home: index.md
     - Recipes: recipes/
     - Tags: tags.md
+    - Secret recipes: secret_recipes/index.html

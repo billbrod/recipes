@@ -1,0 +1,3 @@
+[submodule "secret_recipes"]
+	path = secret_recipes
+	url = git@github.com:billbrod/secret_recipes.git

@@ -11,6 +11,37 @@ jobs:
       # Checkout repo
       - uses: actions/checkout@v2
 
+      - name: Get the private repo
+        env:
+          SSH_KEY_FOR_SUBMODULE: ${{ secrets.SECRET_RECIPES_DEPLOYMENT }}
+        run: |
+          mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
+
+      - name: Check secret recipes for tags
+        run: |
+          cd secret_recipes/docs
+          for file in recipes/*md; do
+              if [[ $(cmp <(head -n4 $file) <(head -n4 index.md)) ]]; then
+                  echo $file
+                  exit 1;
+              fi;
+          done
+
+      - name: Check secret index for secret recipes
+        run: |
+          cd secret_recipes/docs/
+          for file in recipes/*md; do
+              if [[ -z $(grep $file index.md) ]]; then
+                  echo $file
+                  exit 1;
+              fi;
+          done;
+
+      - name: Move secret recipes
+        env:
+          SECRET_RECIPES_DIR: ${{ secrets.PASSWORD_HASH }}
+        run : cp -r secret_recipes/docs/ docs/secret_recipes/"$SECRET_RECIPES_DIR"
+
       - name: Set up Python
         uses: actions/setup-python@v4
 
