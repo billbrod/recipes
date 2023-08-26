@@ -33,8 +33,10 @@ document$.subscribe(function() {
         $(elem).attr('data-original', $(elem).text())
     })
     // encode original ingredient values and wrap them in <a> tag
-    const ingredients = $('#ingredients').next().children()
-    const parse_ingr = RegExp('([0-9-.]+)', 'g')
+    const ingredients = $('#ingredients').nextUntil('h2').filter('ul').children()
+    // want to match: any number of digits, optionally followed by a dash and
+    // another number to specify a range, but not temperatures
+    const parse_ingr = RegExp('([0-9.]+-?[0-9]*)(?! ?[0-9FC°])', 'g')
     $.each(ingredients, function(idx, elem){
         orig = parse_ingr.exec($(elem).text())
         if (orig !== null) {
@@ -50,7 +52,7 @@ document$.subscribe(function() {
         ratio = parseFloat(new_val) / parseFloat(orig);
         $(".ingredient-num").each(function(idx, elem){
             orig = $(elem).attr('data-original').split('-')
-            new_val = $(elem).text().split('-').map((x, i) => parseFloat(orig[i])*ratio).join('-')
+            new_val = $(elem).text().split('-').map((x, i) => (parseFloat(orig[i])*ratio).toFixed(2)).join('-')
             $(elem).text(new_val)
         })
     })
