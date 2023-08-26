@@ -35,8 +35,10 @@ document$.subscribe(function() {
     // encode original ingredient values and wrap them in <a> tag
     const ingredients = $('#ingredients').nextUntil('h2').filter('ul').children()
     // want to match: any number of digits, optionally followed by a dash and
-    // another number to specify a range, but not temperatures
-    const parse_ingr = RegExp('([0-9.]+-?[0-9]*)(?! ?[0-9FC°])', 'g')
+    // another number to specify a range, but not temperatures and not numbers
+    // followed by a dash and a letter (because this is likely to be "12-ounce can"
+    // or the like, which we don't want to scale)
+    const parse_ingr = RegExp('([0-9.]+)(-[0-9]+)?(?!-[a-zA-Z])(?! ?[0-9FC°])', 'g')
     $.each(ingredients, function(idx, elem){
         orig = parse_ingr.exec($(elem).text())
         if (orig !== null) {
