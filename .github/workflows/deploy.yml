@@ -18,24 +18,10 @@ jobs:
           mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
 
       - name: Check secret recipes for tags
-        run: |
-          cd secret_recipes/docs
-          for file in recipes/*md; do
-              if [[ $(cmp <(head -n4 $file) <(head -n4 index.md)) ]]; then
-                  echo $file
-                  exit 1;
-              fi;
-          done
+        run: ./secret_recipes/scripts/check_head.sh
 
       - name: Check secret index for secret recipes
-        run: |
-          cd secret_recipes/docs/
-          for file in recipes/*md; do
-              if [[ -z $(grep $file index.md) ]]; then
-                  echo $file
-                  exit 1;
-              fi;
-          done;
+        run: ./secret_recipes/scripts/check_index.sh
 
       - name: Move secret recipes
         env:

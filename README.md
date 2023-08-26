@@ -11,6 +11,7 @@ TODO:
   - [X] do the same cloning trick as in rpg notes
   - [X] run the tests from secret recipes
   - [X] mv it to the secret.hash location before site build
+- [X] move secret recipe tests to scripts and include in pre commit hooks
 - [ ] Add tags for: entertaining/having guests, effort-level (easy, normal,
       involved)
   - group tags into categories: cuisine, dish, context, protein, ingredient,
