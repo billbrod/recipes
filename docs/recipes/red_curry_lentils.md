@@ -20,7 +20,7 @@ In this vegetarian main inspired by Indian dal, lentils are cooked with an aroma
 ## Ingredients { #ingredients }
 
 - 3 tablespoons olive oil
-- 1 pound sweet potatoes (about 2 medium sweet potatoes), peeled and cut into ¾-inch cubes
+- 1 pound sweet potatoes (about 2 medium sweet potatoes), peeled and cut into .75-inch cubes
 - 1 medium yellow onion, chopped
 - 3 tablespoons Thai red curry paste
 - 3 garlic cloves, minced (about 1 tablespoon)

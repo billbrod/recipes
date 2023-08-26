@@ -52,12 +52,34 @@ def cli():
     pass
 
 
+def convert_fractions(txt):
+    """Replace common fractions
+    """
+    txt = txt.replace('1/2', '.5').replace('1/3', '.333').replace('1/4', '.25').replace('1/8', '.125').replace('3/4', '.75').replace('2/3', '.666')
+    return txt.replace('½', '.5').replace('⅓', '.333').replace('¼', '.25').replace('⅛', '.125').replace('¾', '.75').replace('⅔', '.666')
+
+
+@cli.command()
+@click.argument('directory')
+def convert_fractions_in_files(directory):
+    """Convert all fractions in markdown files in directory
+    """
+    for f in os.listdir(directory):
+        if f.endswith('md'):
+            with open(op.join(directory, f), 'r') as md:
+                txt = convert_fractions(md.read())
+            with open(op.join(directory, f), 'w') as md:
+                md.write(txt)
+
+
 @cli.command()
 @click.argument('zip_path')
 @click.option('--output_dir', default='converted_tandoor_recipes/', help="Where to save outputs", show_default=True)
 @click.option('--recipe_idx', nargs=2, default=(0, 10), help="Index of recipes to save out (as the start and stop value in the range).", show_default=True)
 def convert_tandoor(zip_path: str, output_dir: str = 'converted_tandoor_recipes/',
                     recipe_idx: Optional[Tuple[int]] = (0, 10)):
+    """Convert tandoor recipes to markdown
+    """
     recipes = zipfile.ZipFile(zip_path, 'r')
     os.makedirs(op.join(output_dir, 'images'), exist_ok=True)
     recipe_list = recipes.filelist
@@ -109,7 +131,7 @@ def convert_tandoor(zip_path: str, output_dir: str = 'converted_tandoor_recipes/
                     ingr_txt = f"\n### {ingr['note']}\n"
                 ingrs.append(ingr_txt)
         if ingrs:
-            rec_dict['ingredients'] = '\n'.join(ingrs)
+            rec_dict['ingredients'] = convert_fractions('\n'.join(ingrs))
         if '\n2. ' in '\n'.join(dirs) or '\n- ' in '\n'.join(dirs):
             # then we don't need to number steps
             rec_dict['directions'] = '\n\n'.join(dirs)
@@ -134,6 +156,8 @@ def convert_tandoor(zip_path: str, output_dir: str = 'converted_tandoor_recipes/
 @click.option('--card_idx', nargs=2, default=(0, 10), help="Index of cards to save out (as the start and stop value in the range).", show_default=True)
 def convert_trello(json_path: str, output_dir: str = 'converted_trello_recipes/',
                    card_idx: Optional[Tuple[int]] = (0, 10)):
+    """Convert trello recipes to markdown
+    """
     with open(json_path, 'r') as f:
         recipes = json.load(f)
     os.makedirs(op.join(output_dir, 'images'), exist_ok=True)
@@ -157,6 +181,7 @@ def convert_trello(json_path: str, output_dir: str = 'converted_trello_recipes/'
         slug = re.sub("[(),.'&\"’]", "", slug)
         # was inconsistent with section name
         contents = rec['desc'].replace('# ', '## ').replace('Instructions', 'Directions').replace('Preparation', 'Directions')
+        contents = convert_fractions(contents)
         contents = contents.replace('# Ingredients', '# Ingredients { #ingredients }')
         contents = contents.replace('Time:', '- Time:').replace('’', "'").replace('Yields:', 'Serves:')
         contents = re.sub('Serves: ([0-9]+).*', '- Serves: \\1\n{ #serves }', contents)

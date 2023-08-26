@@ -30,7 +30,7 @@ A spicy, fragrant peanut sauce reminiscent of the groundnut stews that are popul
 - 1 tablespoon fish sauce (optional)
 - 2 teaspoons chopped habanero pepper, stem and seeds removed, or 1 tablespoon sambal
 - 2 tablespoons buckwheat honey or molasses
-- 2 (14-ounce) package extra-firm tofu, drained and sliced crosswise, 1/4-inch thick
+- 2 (14-ounce) package extra-firm tofu, drained and sliced crosswise, .25-inch thick
 - 3 cups peppery greens, like arugula, mizuna or baby mustard greens
 - 2 scallions, trimmed and thinly sliced
 

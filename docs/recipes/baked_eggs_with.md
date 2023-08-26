@@ -36,7 +36,7 @@ Consider this a heartier version of the classic Italian dish “eggs in purgator
 
 ## Directions
 
-1. Heat the oven to 375 degrees. Heat the olive oil in a 12-inch ovenproof skillet over medium heat. If using the sausage, add to the pan and cook, breaking it into ½-inch pieces, by pressing with the back of spatula or wooden spoon until crisp and cooked through, about 8 minutes. Remove with a slotted spoon and set aside.
+1. Heat the oven to 375 degrees. Heat the olive oil in a 12-inch ovenproof skillet over medium heat. If using the sausage, add to the pan and cook, breaking it into .5-inch pieces, by pressing with the back of spatula or wooden spoon until crisp and cooked through, about 8 minutes. Remove with a slotted spoon and set aside.
 2. Add the onion to the skillet and cook until softened, about 3 to 5 minutes. Add the chickpeas and the garlic and cook until the garlic is fragrant, about 1 minute. Season with salt. Add the sausage back to the pan along with the tomatoes and stir to combine. Bring to a simmer and gradually add in the chopped greens by the handful, tossing together until wilted. Season with salt.
 3. Using a spoon, create hollows in the sauce and gently crack the eggs into each, and season the eggs with salt and pepper. Transfer to the oven and cook until the eggs are set, about 7 to 9 minutes. Scatter the herbs on top along with a tablespoon or two of grated cheese, if using.
 

@@ -27,7 +27,7 @@ Fuyu, or fermented tofu, is the umami star of this quick noodle dish, delivering
 - Extra virgin olive oil
 - 1 (14-ounce) package extra-firm tofu, drained and crumbled
 - 1 teaspoon kosher salt (such as Diamond Crystal), plus more to taste
-- 2 medium zucchini (12 ounces), trimmed and cut into ¼ inch batons
+- 2 medium zucchini (12 ounces), trimmed and cut into .25 inch batons
 - 2 garlic cloves, finely chopped
 - 1 teaspoon freshly ground black pepper
 - 2 scallions, trimmed and finely sliced

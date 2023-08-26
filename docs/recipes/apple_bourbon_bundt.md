@@ -35,7 +35,7 @@ tags:
 2. In the bowl of an electric mixer fitted with the paddle attachment, beat together the brown sugar and remaining butter on medium-high speed, until light and fluffy, about 5 minutes. Beat in the eggs, 1 at a time, until incorporated.
 3. In a separate bowl, whisk together the remaining flour with the baking powder, baking soda, cinnamon, salt and nutmeg. In a separate bowl, whisk together the sour cream and vanilla. Pour in the bourbon from the ginger mixture (reserve ginger) and whisk until smooth. Stir in zest.
 4. With the mixer on medium speed, add the dry mixture and sour cream mixture to the wet mixture in three additions, alternating between the two. Fold in the ginger, apples and pecans. Scrape the batter into the prepared pan. Bake until the cake is golden brown and a skewer inserted into the cake comes out dry, about 1 hour 10 minutes. Cool in the pan 20 minutes, then run a paring knife around the sides of the pan to release the cake; cool, flat side down, on a wire rack.
-5. While the cake cools, combine the ½ cup granulated sugar and ½ cup whiskey in a small saucepan. Over low heat, gently stir until the sugar dissolves. Stir in the lemon juice and take off the heat.
+5. While the cake cools, combine the *.5*{.ingredient-num} cup granulated sugar and *.5*{.ingredient-num} cup whiskey in a small saucepan. Over low heat, gently stir until the sugar dissolves. Stir in the lemon juice and take off the heat.
 6. While the cake cools, make 10 slits on top with a paring knife and pour half the bourbon-sugar mixture on the still-warm cake. When the cake is fully cool, flip it and pour the rest of the glaze on the other side, then flip again to serve.
 
 ## Comments

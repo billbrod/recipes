@@ -33,7 +33,7 @@ tags:
 
 ## Notes
 
-If using dried beans, 3/4 pound dried will yield approximately 4 cups cooked. If using canned, 3 (15-ounce) cans should provide the 4 cups cooked beans called for here. Read more on dried-to-cooked/canned bean conversions [here](https://www.seriouseats.com/is-there-a-ratio-for-converting-between-dried). To cook dried beans, soak overnight (or, if you're short on time, bring to a boil in a pot of water), then drain. Add plenty of fresh cold water to cover, along with aromatics like onion, garlic, and carrots, and season with salt; bring to a simmer and cook until beans are tender. 
+If using dried beans, .75 pound dried will yield approximately 4 cups cooked. If using canned, 3 (15-ounce) cans should provide the 4 cups cooked beans called for here. Read more on dried-to-cooked/canned bean conversions [here](https://www.seriouseats.com/is-there-a-ratio-for-converting-between-dried). To cook dried beans, soak overnight (or, if you're short on time, bring to a boil in a pot of water), then drain. Add plenty of fresh cold water to cover, along with aromatics like onion, garlic, and carrots, and season with salt; bring to a simmer and cook until beans are tender. 
 
 ## Source
 
