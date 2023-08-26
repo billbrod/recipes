@@ -98,15 +98,18 @@ def convert_tandoor(zip_path: str, output_dir: str = 'converted_tandoor_recipes/
             dirs.append(st['instruction'].replace('# ', '### '))
             for ingr in st['ingredients']:
                 note = f'({ingr["note"]})' if ingr['note'] else ''
-                ingr_txt = ""
-                if ingr['amount']:
-                    ingr_txt += str(ingr['amount'])
-                if ingr['unit']:
-                    ingr_txt += ' ' + ingr['unit']['name'] + ' '
-                ingr_txt += f"{ingr['food']['name']} {note}"
+                if ingr['food']:
+                    ingr_txt = "- "
+                    if ingr['amount']:
+                        ingr_txt += str(ingr['amount'])
+                    if ingr['unit']:
+                        ingr_txt += ' ' + ingr['unit']['name'] + ' '
+                    ingr_txt += f"{ingr['food']['name']} {note}"
+                else:
+                    ingr_txt = f"\n### {ingr['note']}\n"
                 ingrs.append(ingr_txt)
         if ingrs:
-            rec_dict['ingredients'] = '- '+ '\n- '.join(ingrs)
+            rec_dict['ingredients'] = '\n'.join(ingrs)
         if '\n2. ' in '\n'.join(dirs) or '\n- ' in '\n'.join(dirs):
             # then we don't need to number steps
             rec_dict['directions'] = '\n\n'.join(dirs)
