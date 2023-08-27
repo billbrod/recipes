@@ -38,7 +38,7 @@ document$.subscribe(function() {
     // another number to specify a range, but not temperatures and not numbers
     // followed by a dash and a letter (because this is likely to be "12-ounce can"
     // or the like, which we don't want to scale)
-    const parse_ingr = RegExp('([0-9.]+)(-[0-9]+)?(?!-[a-zA-Z])(?! ?[0-9FC°])', 'g')
+    const parse_ingr = RegExp('([0-9\.]+)(-[0-9]+)?(?![0-9.]*-[a-zA-Z])(?! ?[0-9FC°])', 'g')
     $.each(ingredients, function(idx, elem){
         orig = parse_ingr.exec($(elem).text())
         if (orig !== null) {
