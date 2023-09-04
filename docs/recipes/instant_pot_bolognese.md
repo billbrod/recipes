@@ -1,10 +1,11 @@
 ---
 tags:
-pasta
- - italian
- - easy
+ - dish:main
+ - ingredient:pasta
+ - cuisine:italian
+ - difficulty:easy
  - instant pot
- - template
+ - type:template
 ---
 
 # Instant Pot Bolognese
