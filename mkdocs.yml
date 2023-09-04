@@ -32,6 +32,7 @@ plugins:
     - section-index                    # plugin for creating section index
 
 markdown_extensions:
+  - tables
   - attr_list
   - pymdownx.betterem
   - pymdownx.superfences
@@ -40,13 +41,16 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
-  - javascripts/ingredient_initialization.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
   - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+  - javascripts/ingredient_initialization.js
 extra_css:
   - stylesheets/extra.css
 
 nav:
     - Home: index.md
+    - Reference: reference.md
     - Recipes: recipes/
     - Tags: tags.md
     - Secret recipes: secret_recipes/index.html
