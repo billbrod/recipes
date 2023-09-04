@@ -43,6 +43,8 @@ Cumin potatoes are a dish that we discovered in the Northern Chinese city of Xi'
 4. Heat the last *1*{.ingredient-num} tablespoon of oil in your wok over medium-high heat. Add cumin seeds, minced garlic, and diced onion. Cook for about a minute, until the onion turns translucent. Next, add the potatoes, light soy sauce, sugar, cumin powder, water, sesame oil and crushed chili flakes to taste.
 5. Gently stir using a wok spatula to coat the potatoes in the spices. Salt to taste, and add the scallion and cilantro. Gently mix everything well one more time before transferring to a serving dish.
 
-Source: [Woks of Life](https://thewoksoflife.com/cumin-potatoes-vegan-vegetarian/)
+## Source
+
+[Woks of Life](https://thewoksoflife.com/cumin-potatoes-vegan-vegetarian/)
 
 ## Comments
