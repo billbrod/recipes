@@ -48,3 +48,5 @@ Cumin potatoes are a dish that we discovered in the Northern Chinese city of Xi'
 [Woks of Life](https://thewoksoflife.com/cumin-potatoes-vegan-vegetarian/)
 
 ## Comments
+- 2023-09-04: Anna, unsurprisingly, wished the potatoes were softer (after cooking for 17 minutes). If potatoes are firm enough, chopping them up before cooking would help a lot.
+
