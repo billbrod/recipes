@@ -5,8 +5,12 @@ Short things that I often refer back to.
 ## Recipes
 
 - Roasted beets (from Food Lab): roast at 375F in aluminum foil packets (roughly
-  1lb per packet), with .5 Tbsp, 2 sprigs herbs, and some salt and pepper in
-  each packet
+  1lb per packet), with .5 Tbsp oil, 2 sprigs herbs, and some salt and pepper in
+  each packet. Roast until a cake tester goes through without any resistance,
+  about 1 hour, then carefully open packet and let cool for 30 minutes. Peel
+  under cold running water.
+  - Note that covering hands in oil will reduce the amount of pigment that gets
+    on hands from beets (from Flavor Equation).
 - Iced tea (from [Serious
   Eats](https://www.seriouseats.com/cold-brewed-iced-tea-recipe)): 4 tea bags /
   1 Tbsp loose leaf tea per quart of water, in fridge for 5 hours.
