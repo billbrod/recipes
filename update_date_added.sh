@@ -3,7 +3,7 @@ set -euo pipefail
 
 sed -i '/{ #recent }/q' docs/index.md
 echo "" >> docs/index.md
-echo "|Recipe| Date added|" >> docs/index.md
+echo "|Recipe| Date added { data-sort-default } |" >> docs/index.md
 echo "|------|-----------|" >> docs/index.md
 all_files="$(git ls-files docs/recipes/*md)"
 for file in ${all_files[*]}; do
