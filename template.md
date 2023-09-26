@@ -20,6 +20,7 @@ number (e.g., 24 cookies) -->
 <!-- Time is not parsed, so anything can be input here, and additional
 values can be added (e.g., "active time", "cooking time", etc) -->
 - Time: 
+- Date added: 
 
 ## Description
 
