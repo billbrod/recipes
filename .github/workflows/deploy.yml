@@ -23,6 +23,9 @@ jobs:
       - name: Check secret index for secret recipes
         run: ./secret_recipes/scripts/check_index.sh
 
+      - name: Update dates added
+        run: ./update_date_added.sh
+
       - name: Move secret recipes
         env:
           SECRET_RECIPES_DIR: ${{ secrets.PASSWORD_HASH }}

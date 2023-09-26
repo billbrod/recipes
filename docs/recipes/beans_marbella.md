@@ -5,6 +5,8 @@ tags:
 ---
 # Beans Marbella
 
+- Date added: 2023-08-27
+
 NOTE: now a formal recipe on [NYTimes](https://cooking.nytimes.com/recipes/1023274-beans-marbella)
 
 Simmer dried beans with bay leaves and dried oregano until very tender. Roast a sheet pan of halved fingerling potatoes until golden brown and tender all the way through. In a skillet, sauté a few cloves of chopped garlic. As the edges of the garlic start to color, add a splash of red wine and reduce it by about half.
