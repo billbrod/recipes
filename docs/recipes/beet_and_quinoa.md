@@ -9,6 +9,7 @@ tags:
 { #serves }
 - Active time: 15 mins
 - Total time: 50 mins
+- Date added: 2023-08-27
 
 ## Description
 

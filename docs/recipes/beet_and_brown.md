@@ -9,6 +9,7 @@ tags:
 
 - Serves: 2-3 cups
 { #serves }
+- Date added: 2023-08-27
 
 ## Description
 

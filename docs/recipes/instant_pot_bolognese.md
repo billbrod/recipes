@@ -16,6 +16,7 @@ tags:
 { #serves }
 - Working time: 10
 - Waiting time: 20
+- Date added: 2023-09-04
 
 ## Description
 

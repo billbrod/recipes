@@ -10,6 +10,7 @@ tags:
 - Serves: 4
 { #serves }
 - Time: 25 min
+- Date added: 2023-08-26
 
 ## Description
 

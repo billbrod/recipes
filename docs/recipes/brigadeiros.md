@@ -8,6 +8,8 @@ tags:
 
 ![Recipe picture](../images/brigadeiros-0.png)
 
+- Date added: 2023-08-27
+
 ## Description
 
 The Brazilian sweets known as brigadeiros are a classic treat at birthday parties and family get-togethers, where the fudgy, chocolate-milk caramels are often rolled in sprinkles. The chef Natalia Pereira of Woodspoon in Los Angeles also makes more grownup, bittersweet brigadeiros by rolling them in cocoa powder or shredded coconut. Try her recipe, which she learned from her mother in Minas Gerais, Brazil, using either canned condensed milk or a homemade version. Either way, the candies will be tender and delicious. —Tejal Rao

@@ -13,6 +13,7 @@ tags:
 - Serves: 4
 { #serves }
 - Time: 30 minutes
+- Date added: 2023-09-25
 
 ## Ingredients { #ingredients }
 

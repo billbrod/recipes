@@ -7,6 +7,7 @@ tags:
 
 - Serves: 1 cake
 { #serves }
+- Date added: 2023-08-26
 
 ## Ingredients { #ingredients }
 

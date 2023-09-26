@@ -8,6 +8,7 @@ tags:
 - Serves: 4
 { #serves }
 - Time: 45 minutes
+- Date added: 2023-08-26
 
 ## Ingredients { #ingredients }
 

@@ -13,6 +13,7 @@ tags:
 - Prep: 10 minutes
 - Cook: 35 minutes
 - Total: 45 minutes
+- Date added: 2023-09-09
 
 ## Description
 

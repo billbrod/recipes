@@ -7,6 +7,7 @@ tags:
 
 - Serves: 9 bars
 { #serves }
+- Date added: 2023-08-26
 
 ## Ingredients { #ingredients }
 

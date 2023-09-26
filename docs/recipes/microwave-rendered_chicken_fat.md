@@ -8,10 +8,11 @@ tags:
 - Serves: 1
 { #serves }
 - Time: 25 min
+- Date added: 2023-08-27
 
 ## Ingredients { #ingredients }
 
-- .5 to 4.5 ounces(25-125g)chicken skin, cut into 1-inch strips (see note)
+- .5 to 4.5 ounces (25-125g) chicken skin, cut into 1-inch strips (see note)
 
 ## Directions
 

@@ -10,6 +10,7 @@ tags:
 - Serves: 6
 { #serves }
 - Active time: 45 mins
+- Date added: 2023-08-27
 
 ## Ingredients { #ingredients }
 

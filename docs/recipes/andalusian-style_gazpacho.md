@@ -14,10 +14,9 @@ tags:
 { #serves }
 - Working time: 0
 - Waiting time: 0
+- Date added: 2023-08-27
 
 ## Description
-
-
 
 ## Ingredients { #ingredients }
 

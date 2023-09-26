@@ -11,6 +11,7 @@ tags:
 { #serves }
 - Active time: 25 minutes
 - Total time: 25 minutes
+- Date added: 2023-08-26
 
 ## Ingredients { #ingredients }
 
