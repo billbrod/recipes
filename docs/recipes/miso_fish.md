@@ -29,7 +29,7 @@ This miso fish comes together with just 4 ingredients. All you need is white mis
 - 6-8 ounce mahi mahi fillet (or other firm, white fish)
 - 1 tablespoon white miso paste
 - 1 tablespoon mirin
-- 1/2 teaspoon sesame oil
+- .5 teaspoon sesame oil
 - 2 teaspoons neutral oil
 
 ## Directions
