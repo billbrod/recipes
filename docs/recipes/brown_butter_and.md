@@ -1,6 +1,6 @@
 ---
 tags:
-  - desserts
+  - dish:desserts
 ---
 # Brown Butter and Ricotta cookies
 
