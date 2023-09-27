@@ -26,8 +26,8 @@ If it ain’t broke, don’t fix it — that’s what this tofu recipe is to me.
 
 - 1 block (350g) extra-firm tofu
 - 2 garlic cloves, grated
-- 1/3 cup cornstarch, plus more if needed
-- 1/4 cup water
+- .33 cup cornstarch, plus more if needed
+- .25 cup water
 - 3 tablespoons soy sauce
 - 2 tablespoons honey or maple syrup
 - 1 tablespoon sesame oil
