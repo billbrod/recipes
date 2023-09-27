@@ -43,6 +43,9 @@ For an easy, flavorful dinner recipe, marinate chicken thighs in Vietnamese fish
 
 ## Notes
 
+- Someone in the comments pointed out that ATK [recommends](https://web.archive.org/web/20230326000614/https://www.americastestkitchen.com/articles/3115-best-internal-temp-chicken-thighs-drumsticks) cooking chicken thighs to 190F
+- Someone in the comments recommended boiling the marinade down to a glaze while the chicken is in the oven, then brush onto the chicken before serving
+
 ## Source
 
 [Serious Eats](https://www.seriouseats.com/vietnamese-style-baked-chicken-recipe)
