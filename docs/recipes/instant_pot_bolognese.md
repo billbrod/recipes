@@ -4,7 +4,7 @@ tags:
  - ingredient:pasta
  - cuisine:italian
  - difficulty:easy
- - instant pot
+ - context:pressure cooker
  - type:template
 ---
 

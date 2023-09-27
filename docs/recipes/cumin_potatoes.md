@@ -1,7 +1,7 @@
 ---
 tags:
   - dish:sides
-  - ingredient:potatoes
+  - ingredient:potato
   - cuisine:chinese
 ---
 # Cumin potatoes

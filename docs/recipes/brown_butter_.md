@@ -1,6 +1,7 @@
 ---
 tags:
-  - pasta / noodles
+  - ingredient:pasta
+  - dish:main
 ---
 # Brown Butter & Miso Pasta 
 

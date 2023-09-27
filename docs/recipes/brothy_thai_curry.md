@@ -1,6 +1,9 @@
 ---
 tags:
-  - soups/stews
+  - dish:main
+  - cuisine:thai
+  - protein:tofu
+  - ingredient:tomato
 ---
 # Brothy Thai curry with soft tofu
 

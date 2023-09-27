@@ -1,6 +1,9 @@
 ---
 tags:
-  - fish / seafood
+  - protein:fish
+  - cuisine:japanese
+  - ingredient:radish
+  - dish:main
 ---
 # Buri Daikon
 

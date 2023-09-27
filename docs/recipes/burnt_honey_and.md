@@ -1,6 +1,7 @@
 ---
 tags:
-  - sides
+  - dish:sides
+  - ingredient:carrot
 ---
 # Burnt Honey and Gochugaru-Glazed Carrots
 
