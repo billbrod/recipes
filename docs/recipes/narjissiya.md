@@ -3,7 +3,7 @@ tags:
   - dish:main
   - protein:cheese
   - ingredient:asparagus
-  - cuisine:palestinian
+  - cuisine:middle eastern
   - difficulty:easy
 ---
 
