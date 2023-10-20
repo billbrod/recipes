@@ -4,7 +4,7 @@ tags:
   - ingredient:pasta
 ---
 
-# Recipe title
+# Spaghetti with Roasted Tomato Miso Sauce
 
 ![Recipe picture](../images/spaghetti_tomato_miso.jpg)
 
