@@ -35,7 +35,7 @@ This nutty, savory and deeply satisfying — not to mention vegan — grain bowl
 3. In a medium bowl, stir together the nutritional yeast, *.25*{.ingredient-num} cup water, remaining *.25*{.ingredient-num} cup olive oil, the lemon juice, mustard and garlic powder. Season to taste with salt and pepper. Add the grains to the large bowl. Season and dress the grains with salt, lemon zest, and some of the nutritional yeast dressing to taste.
 4. Top the grains with the roasted vegetables, then drizzle with some of the dressing. Top with the almonds.
 
-# Source
+## Source
 
 [NYTimes](https://cooking.nytimes.com/recipes/1022865-roasted-broccoli-grain-bowl-with-nooch-dressing)
 
