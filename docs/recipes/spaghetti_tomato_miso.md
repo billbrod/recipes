@@ -47,3 +47,5 @@ This recipe uses a good amount of tomatoes and that is the reason the flavors ar
 Nik Sharma's Veg-Table, via [To Vegetables, With Love](https://tovegetableswithlove.substack.com/p/spaghetti-with-roasted-tomato-miso)
 
 ## Comments
+
+- 2023-10-21: I made with plum tomatoes it's of cherry and the sauce was too liquidy, I think because of the different surface area to volume ratio.
