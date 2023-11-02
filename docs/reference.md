@@ -85,4 +85,4 @@ release.
 | Vaquero                            | 35 - 45                     | 9 - 11                    |
 | Tepary (White)                     | 25 - 32                     | 8 - 10                    |
 | Yellow Eye                         | 26 - 28                     | 6 - 9                     |
-| Yellow Indian Woman                | 19 - 22                     | 8 - 10                    |
+| Buckeye               | 19 - 22                     | 8 - 10                    |
