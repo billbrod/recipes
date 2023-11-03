@@ -36,32 +36,38 @@ marketing on it.
 The following is for instant pot cooking time, all with natural pressure
 release.
 
+For cooking beans in pressure cooker:
+- don't soak
+- add 3 cups of water for every 1 cup of dried beans
+- 1 Tbsp salt per lb of dried beans
+- for every lb: .5 onion, few garlic cloves, bay leaf or two, maybe some kombu
+
 | Bean                               | Unsoaked cooking time (min) | Soaked cooking time (min) |
 |------------------------------------|-----------------------------|---------------------------|
-| adzuki beans                       | 20 - 25                       | 10 - 15                     |
-| anasazi beans                      | 20 - 25                       | 10 - 15                     |
-| black beans                        | 20 - 25                       | 10 - 15                     |
-| black-eyed peas                    | 20 - 25                       | 10 - 15                     |
-| cannellini beans                   | 35 - 40                       | 20 - 25                     |
-| chickpeas                          | 35 - 40                       | 20 - 25                     |
-| gandules (pigeon peas)             | 20 - 25                       | 15 - 20                     |
-| great northern beans               | 25 - 30                       | 20 - 25                     |
-| kidney beans, red                  | 25 - 30                       | 20 - 25                     |
-| kidney beans, white                | 35 - 40                       | 20 - 25                     |
-| lentils, French green              | 15 - 20                       | n/a                       |
-| lentils, green, mini (brown)       | 15 - 20                       | n/a                       |
-| lentils, red, split                | 15 - 18                       | n/a                       |
-| lentils, yellow, split (moong dal) | 15 - 18                       | n/a                       |
-| lima beans                         | 20 - 25                       | 10 - 15                     |
-| navy beans                         | 25 - 30                       | 20 - 25                     |
-| peas                               | 15 - 20                       | 10 - 15                     |
-| pinto beans                        | 25 - 30                       | 20 - 25                     |
-| scarlet runner beans               | 20 - 25                       | 10 - 15                     |
-| soybeans                           | 25 - 30                       | 20 - 25                     |
+| adzuki beans                       | 20 - 25                     | 10 - 15                   |
+| anasazi beans                      | 20 - 25                     | 10 - 15                   |
+| black beans                        | 20 - 25                     | 10 - 15                   |
+| black-eyed peas                    | 20 - 25                     | 10 - 15                   |
+| cannellini beans                   | 35 - 40                     | 20 - 25                   |
+| chickpeas                          | 35 - 40                     | 20 - 25                   |
+| gandules (pigeon peas)             | 20 - 25                     | 15 - 20                   |
+| great northern beans               | 25 - 30                     | 20 - 25                   |
+| kidney beans, red                  | 25 - 30                     | 20 - 25                   |
+| kidney beans, white                | 35 - 40                     | 20 - 25                   |
+| lentils, French green              | 15 - 20                     | n/a                       |
+| lentils, green, mini (brown)       | 15 - 20                     | n/a                       |
+| lentils, red, split                | 15 - 18                     | n/a                       |
+| lentils, yellow, split (moong dal) | 15 - 18                     | n/a                       |
+| lima beans                         | 20 - 25                     | 10 - 15                   |
+| navy beans                         | 25 - 30                     | 20 - 25                   |
+| peas                               | 15 - 20                     | 10 - 15                   |
+| pinto beans                        | 25 - 30                     | 20 - 25                   |
+| scarlet runner beans               | 20 - 25                     | 10 - 15                   |
+| soybeans                           | 25 - 30                     | 20 - 25                   |
 | Alubia Blanca                      | 18 - 22                     | 8 - 12                    |
 | Ayocote Amarillo                   |                             | 11 - 13                   |
 | Ayocote Blamco                     | 35 - 40                     | 12 - 15                   |
-| Ayocote Morado                     | 23 - 26                      | 8 - 10                    |
+| Ayocote Morado                     | 23 - 26                     | 8 - 10                    |
 | Ayocote Negro                      | 35 - 45                     | 14 - 16                   |
 | Sta Maria Pinquito                 | 19 - 21                     | 10 - 12                   |
 | Christmas Lima                     | 18 - 22                     | 6 - 8                     |
@@ -85,4 +91,4 @@ release.
 | Vaquero                            | 35 - 45                     | 9 - 11                    |
 | Tepary (White)                     | 25 - 32                     | 8 - 10                    |
 | Yellow Eye                         | 26 - 28                     | 6 - 9                     |
-| Buckeye               | 19 - 22                     | 8 - 10                    |
+| Buckeye                            | 19 - 22                     | 8 - 10                    |
