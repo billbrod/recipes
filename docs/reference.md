@@ -37,6 +37,7 @@ The following is for instant pot cooking time, all with natural pressure
 release.
 
 For cooking beans in pressure cooker:
+
 - don't soak
 - add 3 cups of water for every 1 cup of dried beans
 - 1 Tbsp salt per lb of dried beans
