@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:side
+  - dish:sides
   - ingredient:cucumber
   - cuisine:japanese
   - difficulty:easy

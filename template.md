@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:main,side,dessert,drink,etc
+  - dish:main,sides,dessert,drink,etc
   - protein:lentils,beef,chicken,tofu,etc
   - ingredient:sweet potatoes,cabbage,etc
   - cuisine:thai,chinese,etc
