@@ -1,11 +1,9 @@
 ---
 tags:
-  - dish:main,side,dessert,drink,etc
-  - protein:lentils,beef,chicken,tofu,etc
-  - ingredient:sweet potatoes,cabbage,etc
-  - cuisine:thai,chinese,etc
-  - context:entertaining,holiday
-  - difficulty:easy,involved
+  - dish:main
+  - protein:tofu
+  - ingredient:broccoli
+  - difficulty:easy
 ---
 <!-- Tags can have colon, but no space around it -->
 
