@@ -8,7 +8,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Bifu Kare Risu (beef curry over rice)
+# Bifu Kare Risu 
 
 ![Recipe picture](../images/bifu_kare_risu.webp)
 
@@ -28,7 +28,8 @@ One of these recipes that caught my eye in particular was Sylvan’s take on cur
 
 Curry rice has been a big part of Sylvan’s culinary experiences—from enjoying his mother’s version of it as a child, to selling it at a pop-up restaurant as part of a high school project, to crafting his own rendition that he continues to cook for family and friends as an adult. This recipe below for bifu kare risu (beef curry rice) from his cookbook is one he’s refined over the years. Here, Sylvan employs S&B brand curry powder (instead of pre-packaged curry cubes) and kurozato, an unrefined black lump sugar, to caramelize in the pan after browning the beef so that it creates deeper color and flavor. Onions also play an important role, as they provide structure for the curry; cooking them down over low heat with grated apple and the seasonings until soft and jammy, then blending them with chicken stock creates a silky sauce that results in a smooth, sweet curry.
 
-## Ingredients { #ingredients }
+## Bifu Kare Risu
+### Ingredients { #ingredients }
 
 - 3 tablespoons vegetable or other neutral oil
 - 2 pounds beef chuck, cut into ¾-inch pieces
@@ -47,12 +48,12 @@ Curry rice has been a big part of Sylvan’s culinary experiences—from enjoyin
 - 2 large carrots, cut into ½-inch pieces
 - 1 tablespoon potato starch
 
-### For serving: 
+#### For serving: 
 
 - Hot rice
 - Yogurt Raita (recipe below)
 - Store-bought fukujinzuke pickles (optional)
-## Directions
+### Directions
 
 <!-- If you have a direction that refers to a number of some ingredient, wrap
 the number in asterisks and add `{.ingredient-num}` afterwards. For example,
@@ -67,7 +68,7 @@ us to properly change the number when changing the serves value. -->
 7. The curry can be served immediately or made ahead and reheated. It will keep in an airtight container in the refrigerator for up to 3 days. I don’t recommend freezing it, since the potatoes and carrots will suffer.
 8. When ready to serve, spoon the curry into a large bowl. Serve with rice, yogurt raita, and the pickles (if using).
 
-## Notes
+### Notes
 
 Variations:
 - This curry can be made with chicken instead of beef. Use an equal amount of boneless, skin-on chicken thighs, browning them skin-side down as you would the beef, or with an assortment of chicken parts (though if you use white meat, you want to pull those pieces from the curry sauce sooner, so they don’t dry out).
@@ -75,26 +76,26 @@ Variations:
 - As for vegetables, kabocha squash is a nice addition, although its cooking time is shorter, so you’ll want to add it just 10 minutes before the curry is finished.
 - If you want a lighter dish, broccoli florets, orange or purple cauliflower, and green beans can be blanched in salted water, then arranged over the rice before scooping the curry over.
 
-# Yogurt Raita
+## Yogurt Raita
 
 - Serves: 2 cups
 { #serves }
 
-## Ingredients
+### Ingredients
 
 - 1 Japanese cucumber
 - .5 teaspoon sea salt
 - 1 garlic clove
 - 2 cups whole milk Greek yogurt
 
-## Directions
+### Directions
 
 1. Using a mandoline or a sharp knife, thinly slice the cucumber. Place the slices in a small bowl and toss with the salt. Let stand until the salt begins to draw out water from the cucumbers, about 5 minutes. Massage the cucumber slices to release their liquid, gently at first to keep them from breaking, then more vigorously as they start to expel water. Gently squeeze out as much liquid as you can from the cucumbers, wipe the bowl dry, and return the squeezed cucumbers to the bowl.
 2. Using a mortar and pestle, pound the garlic with a pinch of salt into a smooth paste (or grate the garlic on a rasp-style grater). Stir the garlic into the cucumbers and add the yogurt. Season to taste with additional salt.
 3. Serve right away or store in an airtight container in the refrigerator for up to 1 day.
 
-# Source
+## Source
 
 [That One Dish](https://thatonedish.substack.com/p/a-recipe-for-bifu-kare-risu-beef)
 
-# Comments
+## Comments

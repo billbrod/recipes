@@ -7,7 +7,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Recipe title
+# Pappa al Pomodoro
 
 ![Recipe picture](../images/pappa_al_pomodoro.webp)
 
