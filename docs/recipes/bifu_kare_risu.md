@@ -99,3 +99,5 @@ Variations:
 [That One Dish](https://thatonedish.substack.com/p/a-recipe-for-bifu-kare-risu-beef)
 
 ## Comments
+
+- 2023-12-21: Delicious, everyone loved!
