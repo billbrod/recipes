@@ -2,6 +2,10 @@
 
 Recipes website
 
+We use
+[this](https://github.com/matteobrusa/Password-protection-for-static-pages) to
+password protect a subset of the site.
+
 TODO:
 - [X] Deploy to custom domain
 - [X] if get secret working: add test to make all secret recipes only have
