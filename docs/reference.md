@@ -25,6 +25,12 @@ Short things that I often refer back to.
 - Pasta water (from [Serious
   Eats](https://www.seriouseats.com/how-salty-should-pasta-water-be)): 1 Tbsp
   Diamond Crystal kosher salt per liter of water
+- Steamed eggs (from [Serious
+  Eats](https://www.seriouseats.com/steamed-hard-boiled-eggs-recipe)): add 1
+  inch water to large pot, with steamer insert above it. bring to boil over high
+  heat, then add eggs to steamer and cover. Cook for 6 minutes for soft-boiled
+  and 12 minutes for hard-boiled. place immediately in ice bath and allow to
+  cool for at least 15 minutes before peeling under running water.
 
 ## Bean cooking times
 
