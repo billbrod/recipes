@@ -1,7 +1,7 @@
 ---
 tags:
  - dish:main
- - ingredient:butternut squash
+ - ingredient:winter squash
  - cuisine:west african
 ---
 

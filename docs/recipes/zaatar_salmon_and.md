@@ -1,5 +1,6 @@
 ---
 tags:
+ - dish:main
  - protein:fish
  - ingredient:salmon
 ---
