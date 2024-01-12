@@ -5,7 +5,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Recipe title
+# Pasta With Pumpkin Seed Pesto
 
 ![Recipe picture](../images/pasta_pumpkin_pesto.jpg)
 
