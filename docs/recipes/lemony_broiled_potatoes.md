@@ -48,5 +48,5 @@ This easy one-skillet side dish—perfect with roasted meats—combines the best
 
 ## Comments
 
-- Bill Broderick, Oct 21, 2021 at 8:34 PM: I did it in a 10 inch pan, so it was a bit over crowded -- ended up doing like 15 or 17 minutes before the cheese (and still didn't really been) and 10 minutes after (the cheese did brown)
-
+- Bill Broderick, Oct 21, 2021 at 8:34 PM: I did it in a 10 inch pan, so it was a bit over crowded -- ended up doing like 15 or 17 minutes before the cheese (and still didn't really brown) and 10 minutes after (the cheese did brown)
+- 2024-01-12: made this in a 12 inch pan and it still ended up having to cook for longer (both before and after cheese) and the potatoes didn't really brown, so maybe it's my oven.
