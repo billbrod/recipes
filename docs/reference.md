@@ -31,6 +31,16 @@ Short things that I often refer back to.
   heat, then add eggs to steamer and cover. Cook for 6 minutes for soft-boiled
   and 12 minutes for hard-boiled. place immediately in ice bath and allow to
   cool for at least 15 minutes before peeling under running water.
+- Tamarind paste (from
+  [NYTimes](https://cooking.nytimes.com/recipes/1021264-tamarind-paste)): 9 oz
+  tamarind pulp (from compressed block) to 1.5 cups boiling water. Separate
+  tamarind into small chunks and place into medium heatproof bowl. Pour boiling
+  water over tamarind, submerge completely, cover with plastic wrap and let sit
+  for 3o to 45 minutes, stirring occasionally. As water cools, rub fruit between
+  fingers to separate it from seeds. The mixture will turn thick and pulpy. Set
+  fine mesh sieve over medium bowl and pass mixture through to remove fibrous
+  materials and seeds, pressing firmly with large spoon to squeeze out as much
+  liquid as possible. Transfer to clean container and store in fridge for up to 2 months.
 
 ## Bean cooking times
 
