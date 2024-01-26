@@ -8,7 +8,7 @@ tags:
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->
-- Serves:
+- Serves: 2
 { #serves }
 <!-- Time is not parsed, so anything can be input here, and additional
 values can be added (e.g., "active time", "cooking time", etc) -->
@@ -45,3 +45,5 @@ values can be added (e.g., "active time", "cooking time", etc) -->
 [Dill Magazine](https://digital.dillmagazine.com/tempe-orek/) (paywalled)
 
 ## Comments
+
+- 2024-01-25: as written, this is quite sweet. Anna liked it better with one Tbsp sugar
