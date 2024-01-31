@@ -51,6 +51,7 @@ extra_css:
 nav:
     - Home: index.md
     - Reference: reference.md
+    - Considering: considering.md
     - Recipes: recipes/
     - Tags: tags.md
     - Secret recipes: secret_recipes/index.html
