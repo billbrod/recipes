@@ -11,7 +11,6 @@
 | [Pozole Verde de Pollo](https://www.seriouseats.com/pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup-recipe)                           | Serious Eats    | 2024-01-29                       |
 | [Shurabet el Eid (soup with rice and meatballs)](https://www.seriouseats.com/shurabet-el-eid-5180240)                                             | Serious Eats    | 2024-01-29                       |
 | [Easy Fish Tofu Soup](https://thewoksoflife.com/easy-fish-tofu-soup/)                                                                             | Woks of Life    | 2024-01-28                       |
-| [Steamed Seitan with Mushrooms and dried lily flowers](https://thewoksoflife.com/steamed-seitan-mushrooms-lily-flowers-chinese/)                  | Woks of Life    | 2024-01-28                       |
 | [Jamaican Curry Chicken](https://www.seriouseats.com/jamaican-curry-chicken-recipe-7371772)                                                       | Serious Eats    | 2024-01-27                       |
 | [Galinhada Mineira (chicken and rice)](https://www.seriouseats.com/galinhada-mineira-brazilian-chicken-and-rice-from-minas-gerais-recipe-7229603) | Serious Eats    | 2024-01-27                       |
 | [Egyptian Fatta (pita, rice, beef)](https://www.seriouseats.com/egyptian-fatta-recipe-7109578)                                                    | Serious Eats    | 2024-01-27                       |
@@ -27,4 +26,6 @@
 | [Liangban qiezi (eggplant)](https://www.seriouseats.com/traditional-tapenade-provence-tuna-olive-caper-recipe)                                    | NYTimes         | 2024-01-22                       |
 | [Vegan Ants climbing a tree](https://thewoksoflife.com/vegan-ants-climbing-a-tree/)                                                               | Woks of Life    | 2024-01-22                       |
 | [Salted Tahini Chocolate Chip cookies](https://cooking.nytimes.com/recipes/1018055-salted-tahini-chocolate-chip-cookies)                          | NYTimes         | 2024-01-21                       |
-|                                                                                                                                                   |                 |                                  |
+| [Mushroom Noodle Soup](https://thewoksoflife.com/mushroom-noodle-soup/)                                                                           | Woks of Life    | 2024-02-02                       |
+| [Italian sausage gochujang pasta](https://niksharmacooks.com/italian-sausage-gochujang-pasta/)                                                    | Nik Sharma      | 2024-02-02                       |
+| [Crispy coconut rice with tofu](https://cooking.nytimes.com/recipes/1023924-crispy-coconut-rice-with-tofu)                                        | NYTimes         | 2024-02-02                       |
