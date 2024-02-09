@@ -27,5 +27,5 @@
 | [Vegan Ants climbing a tree](https://thewoksoflife.com/vegan-ants-climbing-a-tree/)                                                               | Woks of Life    | 2024-01-22                       |
 | [Salted Tahini Chocolate Chip cookies](https://cooking.nytimes.com/recipes/1018055-salted-tahini-chocolate-chip-cookies)                          | NYTimes         | 2024-01-21                       |
 | [Mushroom Noodle Soup](https://thewoksoflife.com/mushroom-noodle-soup/)                                                                           | Woks of Life    | 2024-02-02                       |
-| [Italian sausage gochujang pasta](https://niksharmacooks.com/italian-sausage-gochujang-pasta/)                                                    | Nik Sharma      | 2024-02-02                       |
 | [Crispy coconut rice with tofu](https://cooking.nytimes.com/recipes/1023924-crispy-coconut-rice-with-tofu)                                        | NYTimes         | 2024-02-02                       |
+| [Black sesame shortbread](https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread)                                                    | NYTimes         | 2024-02-08                                 |
