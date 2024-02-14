@@ -11,12 +11,12 @@ tags:
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->
-- Serves:
+- Serves: 4 to 6
 { #serves }
 <!-- Time is not parsed, so anything can be input here, and additional
 values can be added (e.g., "active time", "cooking time", etc) -->
-- Time: 
-- Date added: 
+- Time: 10 min prep + 2 hours soaking
+- Date added: 2024-02-12
 
 ## Description
 
@@ -64,3 +64,6 @@ us to properly change the number when changing the serves value. -->
 [Serious Eats](https://www.seriouseats.com/puntarelle-alla-romana-recipe-7091445)
 
 ## Comments
+
+- 2024-02-10: made with lettuce and raddichio, didn't soak in ice water or add
+  capers. still a good dressing!
