@@ -4,8 +4,6 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------|
 | [Fusilli with broccoli, feta, walnuts](https://www.abc.net.au/everyday/hetty-lui-mckinnon-broccoli-feta-walnut-pasta/102184434)                   | Hetty McKinnon  | 2024-01-30                       |
 | [15-minute creamy tomato soup](https://www.seriouseats.com/15-minute-creamy-tomato-soup-vegan-recipe)                                             | Serious Eats    | 2024-01-30                       |
-| [Puntarelle Alla Romana (salad with anchovy/garlic dressing)](https://www.seriouseats.com/puntarelle-alla-romana-recipe-7091445)                  | Serious Eats    | 2024-01-30                       |
-| [Caldo Verde (potato, kale, sausage soup)](https://www.seriouseats.com/caldo-verde-portuguese-potato-kale-soup-recipe)                            | Serious Eats    | 2024-01-30                       |
 | [Big Pot o' Beans](https://www.diasporaco.com/blogs/recipes/big-pot-o-beans-the-diaspora-way)                                                     | Diaspora Co.    | 2024-01-30                       |
 | [Andalusian-style chickpea and spinach stew](https://niksharmacooks.com/andalusian-style-chickpea-and-spinach-stew/)                              | Nik Sharma      | 2024-01-29                       |
 | [Pozole Verde de Pollo](https://www.seriouseats.com/pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup-recipe)                           | Serious Eats    | 2024-01-29                       |
@@ -27,5 +25,5 @@
 | [Vegan Ants climbing a tree](https://thewoksoflife.com/vegan-ants-climbing-a-tree/)                                                               | Woks of Life    | 2024-01-22                       |
 | [Salted Tahini Chocolate Chip cookies](https://cooking.nytimes.com/recipes/1018055-salted-tahini-chocolate-chip-cookies)                          | NYTimes         | 2024-01-21                       |
 | [Mushroom Noodle Soup](https://thewoksoflife.com/mushroom-noodle-soup/)                                                                           | Woks of Life    | 2024-02-02                       |
-| [Crispy coconut rice with tofu](https://cooking.nytimes.com/recipes/1023924-crispy-coconut-rice-with-tofu)                                        | NYTimes         | 2024-02-02                       |
-| [Black sesame shortbread](https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread)                                                    | NYTimes         | 2024-02-08                                 |
+| [Black sesame shortbread](https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread)                                                    | NYTimes         | 2024-02-08                       |
+| [Moroccan Egg Drop Harira (vegetable and legume soup)](https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917)                       | Serious Eats    | 2024-02-13                                 |
