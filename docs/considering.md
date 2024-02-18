@@ -29,3 +29,12 @@
 | [Moroccan Egg Drop Harira (vegetable and legume soup)](https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917)                       | Serious Eats    | 2024-02-13                       |
 | [Campari Olive Oil Cake](https://cooking.nytimes.com/recipes/1020922-campari-olive-oil-cake)                                                      | NYTimes         | 2024-02-17                       |
 | [Citrus-glazed turnips](https://cooking.nytimes.com/recipes/1024137-citrus-glazed-turnips)                                                        | NYTimes         | 2024-02-17                       |
+| [Mushroom Pate](https://www.aliciakennedy.news/p/from-the-kitchen-mushroom-pate-variation)                                                        | Alicia Kennedy  | 2024-02-18                       |
+| [Soft Banana Chocolate Chunk cookies](https://www.aliciakennedy.news/p/from-the-kitchen-soft-banana-chocolate)                                    | Alicia Kennedy  | 2024-02-18                       |
+| [Coconut Cake with coconut milk dulce de leche](https://www.aliciakennedy.news/p/from-the-kitchen-the-perfect-coconut)                            | Alicia Kennedy  | 2024-02-18                       |
+| [Spiced Chickpea Puffs](https://www.vittlesmagazine.com/p/cooking-in-crip-time)                                                                   | Vittles         | 2024-02-18                       |
+| [Clay pot mushroom rice](https://tovegetableswithlove.substack.com/p/mushroom-rice)                                                               | Hetty McKinnon  | 2024-02-18                       |
+| [Mushroom and tofu poke](https://tovegetableswithlove.substack.com/p/tofu-and-mushroom-poke)                                                      | Hetty McKinnon  | 2024-02-18                       |
+| [Baked eggs with tadka greens](https://thatonedish.substack.com/p/a-recipe-for-baked-eggs-with-tadka)                                             | That one dish   | 2024-02-18                       |
+| [Sticky gochujang mushrooms](https://tovegetableswithlove.substack.com/p/sticky-gochujang-mushrooms)                                              | Hety McKinnon   | 2024-02-18                       |
+| [Cardamom and nutmeg nankhatai (soft cookies)](https://thatonedish.substack.com/p/sugar-spice-and-everything-nice-eleanor)                        | That one dish   | 2024-02-18                                 |
