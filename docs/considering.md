@@ -26,4 +26,6 @@
 | [Salted Tahini Chocolate Chip cookies](https://cooking.nytimes.com/recipes/1018055-salted-tahini-chocolate-chip-cookies)                          | NYTimes         | 2024-01-21                       |
 | [Mushroom Noodle Soup](https://thewoksoflife.com/mushroom-noodle-soup/)                                                                           | Woks of Life    | 2024-02-02                       |
 | [Black sesame shortbread](https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread)                                                    | NYTimes         | 2024-02-08                       |
-| [Moroccan Egg Drop Harira (vegetable and legume soup)](https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917)                       | Serious Eats    | 2024-02-13                                 |
+| [Moroccan Egg Drop Harira (vegetable and legume soup)](https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917)                       | Serious Eats    | 2024-02-13                       |
+| [Campari Olive Oil Cake](https://cooking.nytimes.com/recipes/1020922-campari-olive-oil-cake)                                                      | NYTimes         | 2024-02-17                       |
+| [Citrus-glazed turnips](https://cooking.nytimes.com/recipes/1024137-citrus-glazed-turnips)                                                        | NYTimes         | 2024-02-17                       |
