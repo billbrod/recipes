@@ -37,4 +37,5 @@
 | [Mushroom and tofu poke](https://tovegetableswithlove.substack.com/p/tofu-and-mushroom-poke)                                                      | Hetty McKinnon  | 2024-02-18                       |
 | [Baked eggs with tadka greens](https://thatonedish.substack.com/p/a-recipe-for-baked-eggs-with-tadka)                                             | That one dish   | 2024-02-18                       |
 | [Sticky gochujang mushrooms](https://tovegetableswithlove.substack.com/p/sticky-gochujang-mushrooms)                                              | Hety McKinnon   | 2024-02-18                       |
-| [Cardamom and nutmeg nankhatai (soft cookies)](https://thatonedish.substack.com/p/sugar-spice-and-everything-nice-eleanor)                        | That one dish   | 2024-02-18                                 |
+| [Cardamom and nutmeg nankhatai (soft cookies)](https://thatonedish.substack.com/p/sugar-spice-and-everything-nice-eleanor)                        | That one dish   | 2024-02-18                       |
+| [Avgolemono](https://www.seriouseats.com/avgolemono-soup-greek-lemon-egg-chicken-soup)                                                            | Serious Eats    | 2024-02-19                                 |
