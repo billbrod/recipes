@@ -52,6 +52,7 @@ nav:
     - Home: index.md
     - Reference: reference.md
     - Considering: considering.md
+    - Cleaning: cleaning.md
     - Recipes: recipes/
     - Tags: tags.md
     - Secret recipes: secret_recipes/index.html
