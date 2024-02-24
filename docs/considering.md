@@ -39,4 +39,5 @@
 | [Sticky gochujang mushrooms](https://tovegetableswithlove.substack.com/p/sticky-gochujang-mushrooms)                                              | Hety McKinnon   | 2024-02-18                       |
 | [Cardamom and nutmeg nankhatai (soft cookies)](https://thatonedish.substack.com/p/sugar-spice-and-everything-nice-eleanor)                        | That one dish   | 2024-02-18                       |
 | [Avgolemono](https://www.seriouseats.com/avgolemono-soup-greek-lemon-egg-chicken-soup)                                                            | Serious Eats    | 2024-02-19                       |
-| [Khoresh e Bademjan](https://www.seriouseats.com/khoresh-e-bademjan-persian-meat-and-eggplant-stew-recipe-8422715)                                | Serious Eats    | 2024-02-24                                 |
+| [Khoresh e Bademjan](https://www.seriouseats.com/khoresh-e-bademjan-persian-meat-and-eggplant-stew-recipe-8422715)                                | Serious Eats    | 2024-02-24                       |
+| [Swiss chard pasta with leeks](https://cooking.nytimes.com/recipes/1020900-creamy-swiss-chard-pasta-with-leeks-tarragon-and-lemon-zest)           | NYTimes         | 2024-02-24                                 |
