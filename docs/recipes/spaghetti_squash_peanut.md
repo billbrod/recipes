@@ -63,6 +63,7 @@ us to properly change the number when changing the serves value. -->
 <!-- Delete section if no additional notes -->
 
 Alternative ways to serve dish:
+
 - Roast honeynut, acorn or butternut squash in the same way, increasing or decreasing cooking time depending upon the size (meaning, cut them in half, season, and roast them cut side down). If your squash is a similar weight to the spaghetti squash in my recipe (about 800g / 1 ¾ pounds), about 30-40 minutes should do it. Simply press the skin of your squash with your finger and if it gives in easily, it’s ready. Once tender, rough up the flesh of your squash with a fork and then layer in the ingredients in the same way. The flesh will not be strands, but more like a mash.
 - Stuff a whole baked potato or sweet potato! Pretty much same theory as above but with a large starchy potato (such as russet).
 - You could slice thick “steaks” from a cauliflower, drizzle with olive oil, season with sea salt and black pepper and then roast them at 400˚F / 200˚C for 25–30 minutes, until the cauliflower steaks are golden on the outside and tender on the inside. Pile the kale, mushrooms and tofu and peanut sauce on top.
