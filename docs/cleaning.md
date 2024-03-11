@@ -24,6 +24,7 @@
     - if pail smells while open, change the deo-disk (~4-6 weeks)
     - if pail smells while closed, change carbon filter (~3-4 weeks)
     - time between changes vary based on season, temperature, and humidity
+
 - diaper basics (from [diaperkind](https://www.diaperkind.com/how-it-works/how-often-do-i-change-my-baby/)):
 
     - change baby with every feeding or whenever you detect poop
