@@ -51,4 +51,6 @@
 | [Pasta with chopped pesto and peas](https://cooking.nytimes.com/recipes/1023105-pasta-with-chopped-pesto-and-peas)                                           | NYTimes         | 2024-03-11                       |
 | [Minted fava beans (or peas) with smashed potatoes](https://tovegetableswithlove.substack.com/p/minted-fava-beans-with-smashed-potatoes)                     | Hetty McKinnon  | 2024-03-11                       |
 | [Arroz Caldo (Filipino chicken and rice soup)](https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe)                                             | Serious Eats    | 2024-03-11                       |
-| [Bread Omelet](https://thatonedish.substack.com/p/crossroads-no-2-preeti-mistrys-bread)                                                                      | That One Dish   | 2024-03-11                                 |
+| [Bread Omelet](https://thatonedish.substack.com/p/crossroads-no-2-preeti-mistrys-bread)                                                                      | That One Dish   | 2024-03-11                       |
+| [Crispy tofu and cabbage stir fry](https://cooking.nytimes.com/recipes/1022830-crispy-tofu-and-cabbage-stir-fry)                                             | NYTimes         | 2024-03-15                       |
+| [Lemon ricotta breakfast cake](https://www.seriouseats.com/lemon-ricotta-cake-recipe-8551536)                                                                | Serious Eats    | 2024-03-15                                 |
