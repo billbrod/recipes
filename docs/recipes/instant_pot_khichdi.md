@@ -40,7 +40,7 @@ Khichdi is a comforting and mild South Asian stew typically made with lentils an
 5. When the time is up, immediately release the pressure. Carefully open the lid and season to taste with salt.
 6. Divide among bowls. Drizzle with ghee, then top with yogurt and cilantro to serve.
 
-# Source
+## Source
 
 [NYtimes](https://cooking.nytimes.com/recipes/1022005-instant-pot-khichdi)
 
