@@ -55,4 +55,7 @@
 | [Lemon ricotta breakfast cake](https://www.seriouseats.com/lemon-ricotta-cake-recipe-8551536)                                                                | Serious Eats    | 2024-03-15                       |
 | [Baked tomato pasta with harissa and halloumi](https://cooking.nytimes.com/recipes/1025015-baked-tomato-pasta-with-harissa-and-halloumi)                     | NYTimes         | 2024-03-17                       |
 | [Steamed Chicken with black bean sauce](https://thewoksoflife.com/steamed-chicken-black-bean-sauce/)                                                         | Woks of Life    | 2024-03-17                       |
-| [Ground beef and egg bowl](https://thatonedish.substack.com/p/the-dreamy-ground-beef-and-egg-bowl)                                                           | That one dish   | 2024-03-21                                 |
+| [Ground beef and egg bowl](https://thatonedish.substack.com/p/the-dreamy-ground-beef-and-egg-bowl)                                                           | That one dish   | 2024-03-21                       |
+| [Braised asparagus](https://www.seriouseats.com/braised-asparagus-recipe)                                                                                    | Serious Eats    | 2024-03-23                       |
+| [Shanghai-style steamed salmon](https://thewoksoflife.com/steamed-salmon-shanghai-style/)                                                                    | Woks of Life    | 2024-03-23                                 |
+    
