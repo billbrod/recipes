@@ -57,5 +57,9 @@
 | [Steamed Chicken with black bean sauce](https://thewoksoflife.com/steamed-chicken-black-bean-sauce/)                                                         | Woks of Life    | 2024-03-17                       |
 | [Ground beef and egg bowl](https://thatonedish.substack.com/p/the-dreamy-ground-beef-and-egg-bowl)                                                           | That one dish   | 2024-03-21                       |
 | [Braised asparagus](https://www.seriouseats.com/braised-asparagus-recipe)                                                                                    | Serious Eats    | 2024-03-23                       |
-| [Shanghai-style steamed salmon](https://thewoksoflife.com/steamed-salmon-shanghai-style/)                                                                    | Woks of Life    | 2024-03-23                                 |
-    
+| [Shanghai-style steamed salmon](https://thewoksoflife.com/steamed-salmon-shanghai-style/)                                                                    | Woks of Life    | 2024-03-23                       |
+| [Indian black eyed pea curry](https://niksharmacooks.com/indian-black-eyed-pea-curry/)                                                                       | Nik Sharma      | 2024-03-27                       |
+| [One-pot mushroom and ginger rice](https://cooking.nytimes.com/recipes/1025018-one-pot-mushroom-and-ginger-rice)                                             | NYTimes         | 2024-03-27                       |
+| [sweet potato shepherd's pie](https://cooking.nytimes.com/recipes/1025155-sweet-potato-shepherds-pie)                                                        | NYTimes         | 2024-03-29                       |
+| [All purpose Chinese meat sauce](https://thewoksoflife.com/chinese-meat-sauce/)                                                                              | Woks of Life    | 2024-03-29                                 |
+
