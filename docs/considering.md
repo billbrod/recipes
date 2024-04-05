@@ -33,7 +33,6 @@
 | [Soft Banana Chocolate Chunk cookies](https://www.aliciakennedy.news/p/from-the-kitchen-soft-banana-chocolate)                                               | Alicia Kennedy  | 2024-02-18                       |
 | [Coconut Cake with coconut milk dulce de leche](https://www.aliciakennedy.news/p/from-the-kitchen-the-perfect-coconut)                                       | Alicia Kennedy  | 2024-02-18                       |
 | [Spiced Chickpea Puffs](https://www.vittlesmagazine.com/p/cooking-in-crip-time)                                                                              | Vittles         | 2024-02-18                       |
-| [Clay pot mushroom rice](https://tovegetableswithlove.substack.com/p/mushroom-rice)                                                                          | Hetty McKinnon  | 2024-02-18                       |
 | [Mushroom and tofu poke](https://tovegetableswithlove.substack.com/p/tofu-and-mushroom-poke)                                                                 | Hetty McKinnon  | 2024-02-18                       |
 | [Baked eggs with tadka greens](https://thatonedish.substack.com/p/a-recipe-for-baked-eggs-with-tadka)                                                        | That one dish   | 2024-02-18                       |
 | [Sticky gochujang mushrooms](https://tovegetableswithlove.substack.com/p/sticky-gochujang-mushrooms)                                                         | Hety McKinnon   | 2024-02-18                       |
@@ -53,7 +52,6 @@
 | [Arroz Caldo (Filipino chicken and rice soup)](https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe)                                             | Serious Eats    | 2024-03-11                       |
 | [Crispy tofu and cabbage stir fry](https://cooking.nytimes.com/recipes/1022830-crispy-tofu-and-cabbage-stir-fry)                                             | NYTimes         | 2024-03-15                       |
 | [Lemon ricotta breakfast cake](https://www.seriouseats.com/lemon-ricotta-cake-recipe-8551536)                                                                | Serious Eats    | 2024-03-15                       |
-| [Baked tomato pasta with harissa and halloumi](https://cooking.nytimes.com/recipes/1025015-baked-tomato-pasta-with-harissa-and-halloumi)                     | NYTimes         | 2024-03-17                       |
 | [Steamed Chicken with black bean sauce](https://thewoksoflife.com/steamed-chicken-black-bean-sauce/)                                                         | Woks of Life    | 2024-03-17                       |
 | [Ground beef and egg bowl](https://thatonedish.substack.com/p/the-dreamy-ground-beef-and-egg-bowl)                                                           | That one dish   | 2024-03-21                       |
 | [Braised asparagus](https://www.seriouseats.com/braised-asparagus-recipe)                                                                                    | Serious Eats    | 2024-03-23                       |
@@ -61,5 +59,10 @@
 | [Indian black eyed pea curry](https://niksharmacooks.com/indian-black-eyed-pea-curry/)                                                                       | Nik Sharma      | 2024-03-27                       |
 | [One-pot mushroom and ginger rice](https://cooking.nytimes.com/recipes/1025018-one-pot-mushroom-and-ginger-rice)                                             | NYTimes         | 2024-03-27                       |
 | [sweet potato shepherd's pie](https://cooking.nytimes.com/recipes/1025155-sweet-potato-shepherds-pie)                                                        | NYTimes         | 2024-03-29                       |
-| [All purpose Chinese meat sauce](https://thewoksoflife.com/chinese-meat-sauce/)                                                                              | Woks of Life    | 2024-03-29                                 |
+| [All purpose Chinese meat sauce](https://thewoksoflife.com/chinese-meat-sauce/)                                                                              | Woks of Life    | 2024-03-29                       |
+| [asparagus stir-fry](https://thewoksoflife.com/asparagus-stir-fry/)                                                                                          | Woks of life    | 2024-04-05                       |
+| [roasted asparagus with crispy leeks and capers](https://thewoksoflife.com/asparagus-stir-fry/)                                                              | NYTimes         | 2024-04-05                       |
+| [radicchio with soft cheese](https://cooking.nytimes.com/recipes/1022946-pan-seared-radicchio-with-soft-cheese)                                              | NYTimes         | 2024-04-05                       |
+| [Parmesan braised beans with olives](https://cooking.nytimes.com/recipes/1025034-parmesan-braised-beans-with-olives)                                         | NYTimes         | 2024-04-05                       |
+| [roasted chicken with sticky rice](https://thewoksoflife.com/chicken-with-sticky-rice/)                                                                      | Woks of Life    | 2024-04-05                                 |
 
