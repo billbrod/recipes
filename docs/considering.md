@@ -64,5 +64,6 @@
 | [roasted asparagus with crispy leeks and capers](https://thewoksoflife.com/asparagus-stir-fry/)                                                              | NYTimes         | 2024-04-05                       |
 | [radicchio with soft cheese](https://cooking.nytimes.com/recipes/1022946-pan-seared-radicchio-with-soft-cheese)                                              | NYTimes         | 2024-04-05                       |
 | [Parmesan braised beans with olives](https://cooking.nytimes.com/recipes/1025034-parmesan-braised-beans-with-olives)                                         | NYTimes         | 2024-04-05                       |
-| [roasted chicken with sticky rice](https://thewoksoflife.com/chicken-with-sticky-rice/)                                                                      | Woks of Life    | 2024-04-05                                 |
+| [roasted chicken with sticky rice](https://thewoksoflife.com/chicken-with-sticky-rice/)                                                                      | Woks of Life    | 2024-04-05                        |
+| [butter mochi](https://tastecooking.com/recipes/butter-mochi/)                                                                                               | TASTE           | 2024-04-05                                 |
 
