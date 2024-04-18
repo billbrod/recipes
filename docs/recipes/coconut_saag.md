@@ -2,7 +2,8 @@
 tags:
   - dish:main
   - protein:cheese
-  - ingredient:kale,greens
+  - ingredient:kale
+  - ingredient:greens
   - cuisine:indian
   - difficulty:easy
 ---
