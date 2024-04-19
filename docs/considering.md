@@ -74,6 +74,7 @@
 | [One-pot chicken and rice with ginger](https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger)                                         | NYTimes         | 2024-04-18                       |
 | [Parmesan cabbage soup](https://cooking.nytimes.com/recipes/1024002-parmesan-cabbage-soup)                                                                       | NYTimes         | 2024-04-18                       |
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
-| [gochujang potato stew](https://cooking.nytimes.com/recipes/1024082-gochujang-potato-stew)                                                                       | NYTimes         | 2024-04-18                                 |
+| [gochujang potato stew](https://cooking.nytimes.com/recipes/1024082-gochujang-potato-stew)                                                                       | NYTimes         | 2024-04-18                       |
+| [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                                 |
 
 
