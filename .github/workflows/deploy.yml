@@ -9,44 +9,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout repo
-      - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
-      - name: Get the private repo
-        env:
-          SSH_KEY_FOR_SUBMODULE: ${{ secrets.SECRET_RECIPES_DEPLOYMENT }}
-        run: |
-          mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
+    - name: Get the private repo
+      env:
+        SSH_KEY_FOR_SUBMODULE: ${{ secrets.SECRET_RECIPES_DEPLOYMENT }}
+      run: |
+        mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
 
-      - name: Check secret recipes for tags
-        run: ./secret_recipes/scripts/check_head.sh
+    - name: Check secret recipes for tags
+      run: ./secret_recipes/scripts/check_head.sh
 
-      - name: Check secret index for secret recipes
-        run: ./secret_recipes/scripts/check_index.sh
+    - name: Check secret index for secret recipes
+      run: ./secret_recipes/scripts/check_index.sh
 
-      - name: Update dates added
-        run: ./update_date_added.sh
+    - name: Update dates added
+      run: ./update_date_added.sh
 
-      - name: Move secret recipes
-        env:
-          SECRET_RECIPES_DIR: ${{ secrets.PASSWORD_HASH }}
-        run : cp -r secret_recipes/docs/ docs/secret_recipes/"$SECRET_RECIPES_DIR"
+    - name: Move secret recipes
+      env:
+        SECRET_RECIPES_DIR: ${{ secrets.PASSWORD_HASH }}
+      run: cp -r secret_recipes/docs/ docs/secret_recipes/"$SECRET_RECIPES_DIR"
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
 
-      - name: Install Dependencies
-        run: |
-          npm install netlify-cli
-          pip install -r requirements.txt
+    - name: Install Dependencies
+      run: |
+        npm install netlify-cli
+        pip install -r requirements.txt
 
-      - name: Build site
-        run: mkdocs build
+    - name: Build site
+      run: mkdocs build
 
       # Deploy the site with netlify-cli
-      - name: Deploy Site
-        env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        run: netlify deploy --dir=site/ --prod
+    - name: Deploy Site
+      env:
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      run: netlify deploy --dir=site/ --prod
