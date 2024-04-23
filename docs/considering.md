@@ -74,6 +74,10 @@
 | [Parmesan cabbage soup](https://cooking.nytimes.com/recipes/1024002-parmesan-cabbage-soup)                                                                       | NYTimes         | 2024-04-18                       |
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
 | [gochujang potato stew](https://cooking.nytimes.com/recipes/1024082-gochujang-potato-stew)                                                                       | NYTimes         | 2024-04-18                       |
-| [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                                 |
+| [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                       |
+| [tofu larb](https://cooking.nytimes.com/recipes/1022299-tofu-larb)                                                                                               | NYTimes         | 2024-04-23                       |
+| [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
+| [chickpea escabeche with plantain strips](https://cooking.nytimes.com/recipes/1024675-chickpeas-escabeche-with-plantain-strips)                                  | NYTimes         | 2024-04-23                       |
+| [spicy cucumbers with yogurt lemon and herbs](https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs)                           | NYTimes         | 2024-04-23                                 |
 
 
