@@ -67,3 +67,4 @@ If you’d prefer not to use wine, you can mimic the brightness by finishing the
 ## Comments
 
 - 2024-01-28: used this as inspiration, but swapped out the broccoli for a bunch each of collards and chard, the parsley for a mix of dill and rosemary, and the farro for a 50/50 farro/barley mixture. then sauteed 4 cevapi, chopped them up and added them (along with the oil they had been sauteed in) to the soup at the very end. was delicious!
+- 2024-04-24: made with broccoli and rice, adding all the parsley-caper mixture at the beginning, and adding sujuk along with the stock. 
