@@ -39,3 +39,9 @@ Tip: This is a very moist cake and goes especially well with blueberries, raspbe
 [NYTimes](https://cooking.nytimes.com/recipes/3251-claudia-rodens-orange-and-almond-cake)
 
 ## Comments
+
+- 2024-04-26: following some advice from the comments:
+  - I baked it for 1 hour at 375F
+  - I added some cinnamon sticks and cloves to the water with the oranges, then reserved 4 Tbsp of that water, to which I added 1 Tbsp OJ, .5 Tbsp bourbon, and simmered for a bit to concentrate, at which point I whisked in some powdered sugar to make a glaze
+  - I added a quarter cup of orange liqueur (Gran Gala) along with the oranges when pureeing
+  - I pureed the oranges in the nutribullet
