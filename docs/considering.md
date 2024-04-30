@@ -79,6 +79,6 @@
 | [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
 | [chickpea escabeche with plantain strips](https://cooking.nytimes.com/recipes/1024675-chickpeas-escabeche-with-plantain-strips)                                  | NYTimes         | 2024-04-23                       |
 | [spicy cucumbers with yogurt lemon and herbs](https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs)                           | NYTimes         | 2024-04-23                       |
-| [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                                 |
-
-
+| [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
+| [tom yum soup with tofu and vermicelli](https://cooking.nytimes.com/recipes/1022612-tom-yum-soup-with-tofu-and-vermicelli)                                       | NYTimes         | 2024-04-29                       |
+| [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                                 |
