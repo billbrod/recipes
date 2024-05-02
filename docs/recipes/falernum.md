@@ -47,7 +47,7 @@ us to properly change the number when changing the serves value. -->
 2. Place almonds and cloves in a sealable glass jar and pour in rum. Shake and let steep 2 days. (For a less intense clove flavor, steep 1 day.)
 3. Zest limes, make sure no white pith is included. Set aside 4 of the limes for use in this recipe, and reserve the rest for another project. Add lime zest to jar. At this point, you can also add other spices, if desired. Shake and let steep for 1 day.
 4. Strain mixture through cheesecloth, pressing to extract as much liquid as possible.
-5. Juice 4 limes, and strain juice into a sauce pot. Add water and sugar, then bring to a boil on medium heat. Cook until sugar is dissolved, about 5 minutes. Let syrup cool, then combine with the strained almond and clove infusion. Strain mixture through a coffee filter, if desired, then let it rest for an additional 12 hours before use. 
+5. Juice *4*{.ingredient-num} limes, and strain juice into a sauce pot. Add water and sugar, then bring to a boil on medium heat. Cook until sugar is dissolved, about 5 minutes. Let syrup cool, then combine with the strained almond and clove infusion. Strain mixture through a coffee filter, if desired, then let it rest for an additional 12 hours before use. 
 
 ## Notes
 <!-- Delete section if no additional notes -->

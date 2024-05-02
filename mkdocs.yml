@@ -36,9 +36,6 @@ markdown_extensions:
   - attr_list
   - pymdownx.betterem
   - pymdownx.superfences
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
@@ -53,6 +50,7 @@ nav:
     - Reference: reference.md
     - Considering: considering.md
     - Cleaning: cleaning.md
-    - Recipes: recipes/
+    - Cocktails: cocktails/
     - Tags: tags.md
     - Secret recipes: secret_recipes/index.html
+    - Recipes: recipes/
