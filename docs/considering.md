@@ -62,7 +62,6 @@
 | [Parmesan braised beans with olives](https://cooking.nytimes.com/recipes/1025034-parmesan-braised-beans-with-olives)                                             | NYTimes         | 2024-04-05                       |
 | [roasted chicken with sticky rice](https://thewoksoflife.com/chicken-with-sticky-rice/)                                                                          | Woks of Life    | 2024-04-05                       |
 | [butter mochi](https://tastecooking.com/recipes/butter-mochi/)                                                                                                   | TASTE           | 2024-04-05                       |
-| [easy egg bake souffle thing](https://juliaturshen.substack.com/p/an-excellent-cheesy-egg-bake-souffle)                                                          | Julia Turshen   | 2024-04-18                       |
 | [khoresh rivas](https://cooking.nytimes.com/recipes/1023153-khoresh-rivas-savory-rhubarb-and-bean-stew)                                                          | NYTimes         | 2024-04-18                       |
 | [pea and ricotta frittata](https://cooking.nytimes.com/recipes/1025216-pea-and-ricotta-frittata)                                                                 | NYTimes         | 2024-04-18                       |
 | [artichoke and peas](https://cooking.nytimes.com/recipes/1025231-one-pan-creamy-artichokes-and-peas)                                                             | NYTimes         | 2024-04-18                       |
