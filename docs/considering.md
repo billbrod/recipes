@@ -65,12 +65,10 @@
 | [khoresh rivas](https://cooking.nytimes.com/recipes/1023153-khoresh-rivas-savory-rhubarb-and-bean-stew)                                                          | NYTimes         | 2024-04-18                       |
 | [pea and ricotta frittata](https://cooking.nytimes.com/recipes/1025216-pea-and-ricotta-frittata)                                                                 | NYTimes         | 2024-04-18                       |
 | [artichoke and peas](https://cooking.nytimes.com/recipes/1025231-one-pan-creamy-artichokes-and-peas)                                                             | NYTimes         | 2024-04-18                       |
-| [gnocchi broccoli tray bake](https://www.abc.net.au/everyday/gnocchi-broccoli-tray-bake/12017796)                                                                | Hetty McKinnon  | 2024-04-18                       |
 | [gnocchi with chli crisp and baby bok choy](https://food52.com/recipes/88499-sheet-pan-gnocchi-with-chili-crisp-baby-bok-choy-from-hetty-mckinnon)               | Hetty McKinnon  | 2024-04-18                       |
 | [crispy sheet-pan noodles with bok choy and tofu](https://cooking.nytimes.com/recipes/1022637-crispy-sheet-pan-noodles-with-glazed-tofu)                         | NYTimes         | 2024-04-18                       |
 | [sheet pan tofu and brussels with hoisin-tahini sauce](https://cooking.nytimes.com/recipes/1023932-sheet-pan-tofu-and-brussels-sprouts-with-hoisin-tahini-sauce) | NYTimes         | 2024-04-18                       |
 | [One-pot chicken and rice with ginger](https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger)                                         | NYTimes         | 2024-04-18                       |
-| [Parmesan cabbage soup](https://cooking.nytimes.com/recipes/1024002-parmesan-cabbage-soup)                                                                       | NYTimes         | 2024-04-18                       |
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
 | [gochujang potato stew](https://cooking.nytimes.com/recipes/1024082-gochujang-potato-stew)                                                                       | NYTimes         | 2024-04-18                       |
 | [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                       |
@@ -80,4 +78,5 @@
 | [spicy cucumbers with yogurt lemon and herbs](https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs)                           | NYTimes         | 2024-04-23                       |
 | [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
 | [tom yum soup with tofu and vermicelli](https://cooking.nytimes.com/recipes/1022612-tom-yum-soup-with-tofu-and-vermicelli)                                       | NYTimes         | 2024-04-29                       |
-| [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                                 |
+| [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                       |
+| [chili crisp tofu edameme fried rice](https://cooking.nytimes.com/recipes/1025020-chile-crisp-fried-rice-with-tofu-and-edamame)                                  | NYTimes         | 2024-05-03                                 |
