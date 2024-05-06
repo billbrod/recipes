@@ -70,7 +70,6 @@
 | [sheet pan tofu and brussels with hoisin-tahini sauce](https://cooking.nytimes.com/recipes/1023932-sheet-pan-tofu-and-brussels-sprouts-with-hoisin-tahini-sauce) | NYTimes         | 2024-04-18                       |
 | [One-pot chicken and rice with ginger](https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger)                                         | NYTimes         | 2024-04-18                       |
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
-| [gochujang potato stew](https://cooking.nytimes.com/recipes/1024082-gochujang-potato-stew)                                                                       | NYTimes         | 2024-04-18                       |
 | [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                       |
 | [tofu larb](https://cooking.nytimes.com/recipes/1022299-tofu-larb)                                                                                               | NYTimes         | 2024-04-23                       |
 | [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
@@ -79,4 +78,5 @@
 | [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
 | [tom yum soup with tofu and vermicelli](https://cooking.nytimes.com/recipes/1022612-tom-yum-soup-with-tofu-and-vermicelli)                                       | NYTimes         | 2024-04-29                       |
 | [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                       |
-| [chili crisp tofu edameme fried rice](https://cooking.nytimes.com/recipes/1025020-chile-crisp-fried-rice-with-tofu-and-edamame)                                  | NYTimes         | 2024-05-03                                 |
+| [chili crisp tofu edameme fried rice](https://cooking.nytimes.com/recipes/1025020-chile-crisp-fried-rice-with-tofu-and-edamame)                                  | NYTimes         | 2024-05-03                       |
+| [mushroom and leek pasta](https://cooking.nytimes.com/recipes/1021506-creamy-one-pot-mushroom-and-leek-pasta)                                                    | NYTimes         | 2024-05-06                                 |
