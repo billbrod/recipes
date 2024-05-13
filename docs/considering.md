@@ -76,4 +76,8 @@
 | [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
 | [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                       |
 | [chili crisp tofu edameme fried rice](https://cooking.nytimes.com/recipes/1025020-chile-crisp-fried-rice-with-tofu-and-edamame)                                  | NYTimes         | 2024-05-03                       |
-| [mushroom and leek pasta](https://cooking.nytimes.com/recipes/1021506-creamy-one-pot-mushroom-and-leek-pasta)                                                    | NYTimes         | 2024-05-06                                 |
+| [mushroom and leek pasta](https://cooking.nytimes.com/recipes/1021506-creamy-one-pot-mushroom-and-leek-pasta)                                                    | NYTimes         | 2024-05-06                       |
+| [creamy tofu noodles](https://cooking.nytimes.com/recipes/1021508-creamy-vegan-tofu-noodles)                                                                     | NYTimes         | 2024-05-13                       |
+| [spanakorizo with jammy eggs](https://cooking.nytimes.com/recipes/1025232-spanakorizo-with-jammy-eggs)                                                           | NYTimes         | 2024-05-13                       |
+| [cumin carrots with feta and chickpeas](https://tovegetableswithlove.substack.com/p/cumin-roasted-carrots-with-lemony)                                           | Hetty McKinnon         | 2024-05-13                       |
+
