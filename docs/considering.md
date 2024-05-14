@@ -68,7 +68,6 @@
 | [sheet pan tofu and brussels with hoisin-tahini sauce](https://cooking.nytimes.com/recipes/1023932-sheet-pan-tofu-and-brussels-sprouts-with-hoisin-tahini-sauce) | NYTimes         | 2024-04-18                       |
 | [One-pot chicken and rice with ginger](https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger)                                         | NYTimes         | 2024-04-18                       |
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
-| [tomato tofu](https://thewoksoflife.com/tomato-tofu/)                                                                                                            | Woks of Life    | 2024-04-19                       |
 | [tofu larb](https://cooking.nytimes.com/recipes/1022299-tofu-larb)                                                                                               | NYTimes         | 2024-04-23                       |
 | [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
 | [chickpea escabeche with plantain strips](https://cooking.nytimes.com/recipes/1024675-chickpeas-escabeche-with-plantain-strips)                                  | NYTimes         | 2024-04-23                       |
