@@ -70,7 +70,6 @@
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
 | [tofu larb](https://cooking.nytimes.com/recipes/1022299-tofu-larb)                                                                                               | NYTimes         | 2024-04-23                       |
 | [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
-| [chickpea escabeche with plantain strips](https://cooking.nytimes.com/recipes/1024675-chickpeas-escabeche-with-plantain-strips)                                  | NYTimes         | 2024-04-23                       |
 | [spicy cucumbers with yogurt lemon and herbs](https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs)                           | NYTimes         | 2024-04-23                       |
 | [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
 | [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                       |
@@ -78,5 +77,8 @@
 | [mushroom and leek pasta](https://cooking.nytimes.com/recipes/1021506-creamy-one-pot-mushroom-and-leek-pasta)                                                    | NYTimes         | 2024-05-06                       |
 | [creamy tofu noodles](https://cooking.nytimes.com/recipes/1021508-creamy-vegan-tofu-noodles)                                                                     | NYTimes         | 2024-05-13                       |
 | [spanakorizo with jammy eggs](https://cooking.nytimes.com/recipes/1025232-spanakorizo-with-jammy-eggs)                                                           | NYTimes         | 2024-05-13                       |
-| [cumin carrots with feta and chickpeas](https://tovegetableswithlove.substack.com/p/cumin-roasted-carrots-with-lemony)                                           | Hetty McKinnon         | 2024-05-13                       |
+| [cumin carrots with feta and chickpeas](https://tovegetableswithlove.substack.com/p/cumin-roasted-carrots-with-lemony)                                           | Hetty McKinnon  | 2024-05-13                       |
+| [cocoa brownies](https://smittenkitchen.com/2010/01/best-cocoa-brownies/)                                                                                        | Smitten Kitchen | 2024-05-17                       |
+| [chana masala](https://cooking.nytimes.com/recipes/1024429-chana-masala)                                                                                         | NYTimes         | 2024-05-18                       |
+| [roasted broccoli and chickpeas with mole verde](https://cooking.nytimes.com/recipes/1025301-roasted-broccoli-and-chickpeas-with-mole-verde)                     | NYTimes         | 2024-05-18                                 |
 
