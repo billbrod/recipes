@@ -56,4 +56,5 @@ us to properly change the number when changing the serves value. -->
 
 ## Comments
 
-- 2024-05-02: Delicious! I halved this recipe and it still took about the same amount of time to bake
+- 2024-05-02: Delicious! I halved this recipe and cooked it in loaf pan, and it still took about the same amount of time to bake
+- 2024-05-18: Cooking full recipe in a loaf pan (smaller than recipe called for), took about 55 minutes
