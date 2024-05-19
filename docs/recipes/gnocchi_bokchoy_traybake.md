@@ -73,3 +73,5 @@ To store: Leftover gnocchi and sauce keep well in separate sealed containers in 
 Hetty McKinnon via [Food52](https://food52.com/recipes/88499-sheet-pan-gnocchi-with-chili-crisp-baby-bok-choy-from-hetty-mckinnon)
 
 ## Comments
+
+- 2024-05-19: this was delicious! I think I would split the bokchoy up more, rather than cooking them in quarters (to make eating easier and so they caramelize a bit more). I cooked everything on two trays
