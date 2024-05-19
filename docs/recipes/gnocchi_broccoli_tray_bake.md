@@ -3,6 +3,7 @@ tags:
   - dish:main
   - ingredient:broccoli
   - ingredient:gnocchi
+  - context:traybake
   - difficulty:easy
 ---
 <!-- Tags can have colon, but no space around it -->

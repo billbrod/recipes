@@ -63,7 +63,6 @@
 | [butter mochi](https://tastecooking.com/recipes/butter-mochi/)                                                                                                   | TASTE           | 2024-04-05                       |
 | [khoresh rivas](https://cooking.nytimes.com/recipes/1023153-khoresh-rivas-savory-rhubarb-and-bean-stew)                                                          | NYTimes         | 2024-04-18                       |
 | [pea and ricotta frittata](https://cooking.nytimes.com/recipes/1025216-pea-and-ricotta-frittata)                                                                 | NYTimes         | 2024-04-18                       |
-| [gnocchi with chli crisp and baby bok choy](https://food52.com/recipes/88499-sheet-pan-gnocchi-with-chili-crisp-baby-bok-choy-from-hetty-mckinnon)               | Hetty McKinnon  | 2024-04-18                       |
 | [crispy sheet-pan noodles with bok choy and tofu](https://cooking.nytimes.com/recipes/1022637-crispy-sheet-pan-noodles-with-glazed-tofu)                         | NYTimes         | 2024-04-18                       |
 | [sheet pan tofu and brussels with hoisin-tahini sauce](https://cooking.nytimes.com/recipes/1023932-sheet-pan-tofu-and-brussels-sprouts-with-hoisin-tahini-sauce) | NYTimes         | 2024-04-18                       |
 | [One-pot chicken and rice with ginger](https://cooking.nytimes.com/recipes/1023346-one-pot-chicken-and-rice-with-ginger)                                         | NYTimes         | 2024-04-18                       |
