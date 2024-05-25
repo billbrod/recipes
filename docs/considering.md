@@ -54,7 +54,6 @@
 | [Ground beef and egg bowl](https://thatonedish.substack.com/p/the-dreamy-ground-beef-and-egg-bowl)                                                               | That one dish   | 2024-03-21                       |
 | [Braised asparagus](https://www.seriouseats.com/braised-asparagus-recipe)                                                                                        | Serious Eats    | 2024-03-23                       |
 | [Shanghai-style steamed salmon](https://thewoksoflife.com/steamed-salmon-shanghai-style/)                                                                        | Woks of Life    | 2024-03-23                       |
-| [Indian black eyed pea curry](https://niksharmacooks.com/indian-black-eyed-pea-curry/)                                                                           | Nik Sharma      | 2024-03-27                       |
 | [sweet potato shepherd's pie](https://cooking.nytimes.com/recipes/1025155-sweet-potato-shepherds-pie)                                                            | NYTimes         | 2024-03-29                       |
 | [All purpose Chinese meat sauce](https://thewoksoflife.com/chinese-meat-sauce/)                                                                                  | Woks of Life    | 2024-03-29                       |
 | [roasted asparagus with crispy leeks and capers](https://thewoksoflife.com/asparagus-stir-fry/)                                                                  | NYTimes         | 2024-04-05                       |
@@ -79,5 +78,8 @@
 | [cocoa brownies](https://smittenkitchen.com/2010/01/best-cocoa-brownies/)                                                                                        | Smitten Kitchen | 2024-05-17                       |
 | [chana masala](https://cooking.nytimes.com/recipes/1024429-chana-masala)                                                                                         | NYTimes         | 2024-05-18                       |
 | [roasted broccoli and chickpeas with mole verde](https://cooking.nytimes.com/recipes/1025301-roasted-broccoli-and-chickpeas-with-mole-verde)                     | NYTimes         | 2024-05-18                       |
-| [spaghetti squash with scallion oil](https://thewoksoflife.com/spaghetti-squash-salad-scallion-oil/)                                                             | Woks of Life    | 2024-05-21                                 |
+| [spaghetti squash with scallion oil](https://thewoksoflife.com/spaghetti-squash-salad-scallion-oil/)                                                             | Woks of Life    | 2024-05-21                       |
+| [creamy spicy tomato beans and greens](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens)                                         | NYTimes         | 2024-05-25                       |
+| [crisp gnocchi with sausage and peas](https://cooking.nytimes.com/recipes/1024164-crisp-gnocchi-with-sausage-and-peas)                                           | NYTimes         | 2024-05-25                       |
+| [charred bok choy and bean salad](https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad)                                        | NYTimes         | 2024-05-25                                 |
 
