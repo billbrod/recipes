@@ -59,3 +59,5 @@ us to properly change the number when changing the serves value. -->
 [Serious Eats](https://www.seriouseats.com/homemade-falernum-for-tiki-drinks-almond-clove-lime-syrup-recipe)
 
 ## Comments
+
+- 2024-05-25: I think I like the version published in Punch Bowl better, which doesn't add line juice, and uses more spices as well as ginger.
