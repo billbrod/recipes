@@ -82,5 +82,6 @@
 | [creamy spicy tomato beans and greens](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens)                                         | NYTimes         | 2024-05-25                       |
 | [crisp gnocchi with sausage and peas](https://cooking.nytimes.com/recipes/1024164-crisp-gnocchi-with-sausage-and-peas)                                           | NYTimes         | 2024-05-25                       |
 | [charred bok choy and bean salad](https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad)                                        | NYTimes         | 2024-05-25                       |
-| [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                                 |
+| [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                       |
+| [esquites](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)                                                                                | Serious Eats    | 2024-05-29                                 |
 
