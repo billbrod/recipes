@@ -55,7 +55,7 @@
 | [Braised asparagus](https://www.seriouseats.com/braised-asparagus-recipe)                                                                                        | Serious Eats    | 2024-03-23                       |
 | [sweet potato shepherd's pie](https://cooking.nytimes.com/recipes/1025155-sweet-potato-shepherds-pie)                                                            | NYTimes         | 2024-03-29                       |
 | [All purpose Chinese meat sauce](https://thewoksoflife.com/chinese-meat-sauce/)                                                                                  | Woks of Life    | 2024-03-29                       |
-| [roasted asparagus with crispy leeks and capers](https://cooking.nytimes.com/recipes/1021977-roasted-asparagus-with-crispy-leeks-and-capers)                                                                  | NYTimes         | 2024-04-05                       |
+| [roasted asparagus with crispy leeks and capers](https://cooking.nytimes.com/recipes/1021977-roasted-asparagus-with-crispy-leeks-and-capers)                     | NYTimes         | 2024-04-05                       |
 | [Parmesan braised beans with olives](https://cooking.nytimes.com/recipes/1025034-parmesan-braised-beans-with-olives)                                             | NYTimes         | 2024-04-05                       |
 | [roasted chicken with sticky rice](https://thewoksoflife.com/chicken-with-sticky-rice/)                                                                          | Woks of Life    | 2024-04-05                       |
 | [butter mochi](https://tastecooking.com/recipes/butter-mochi/)                                                                                                   | TASTE           | 2024-04-05                       |
@@ -84,5 +84,6 @@
 | [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                       |
 | [esquites](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)                                                                                | Serious Eats    | 2024-05-29                       |
 | [brown butter bananarama cookies](https://www.seriouseats.com/banana-cookies-recipe-8648339)                                                                     | Serious Eats    | 2024-06-01                       |
-| [cauliflower sabzi](https://www.seriouseats.com/cauliflower-sabzi-recipe-8559944)                                                                                | Serious Eats    | 2024-06-01                                 |
+| [cauliflower sabzi](https://www.seriouseats.com/cauliflower-sabzi-recipe-8559944)                                                                                | Serious Eats    | 2024-06-01                       |
+| [cold soba salad](https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauce)                                                         | NYTimes         | 2024-06-04                                 |
 
