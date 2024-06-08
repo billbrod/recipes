@@ -84,5 +84,6 @@
 | [esquites](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)                                                                                | Serious Eats    | 2024-05-29                       |
 | [brown butter bananarama cookies](https://www.seriouseats.com/banana-cookies-recipe-8648339)                                                                     | Serious Eats    | 2024-06-01                       |
 | [cauliflower sabzi](https://www.seriouseats.com/cauliflower-sabzi-recipe-8559944)                                                                                | Serious Eats    | 2024-06-01                       |
-| [cold soba salad](https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauce)                                                         | NYTimes         | 2024-06-04                                 |
+| [cold soba salad](https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauce)                                                         | NYTimes         | 2024-06-04                       |
+| [vegetarian bean and cheese enchiladas](https://cooking.nytimes.com/recipes/1020244-vegetarian-bean-and-cheese-enchiladas)                                       | NYTimes         | 2024-06-08                                 |
 
