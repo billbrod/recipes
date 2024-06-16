@@ -88,5 +88,6 @@
 | [sicilian-style broccoli rabe](https://www.seriouseats.com/sicilian-style-broccoli-rabe-recipe)                                                                  | Serious Eats    | 2024-06-08                       |
 | [tomato cheddar toasts](https://cooking.nytimes.com/recipes/1024469-tomato-cheddar-toasts)                                                                       | NYTimes         | 2024-06-15                       |
 | [raw zucchini salad with bread crumbs](https://cooking.nytimes.com/recipes/1025323-zucchini-salad-with-bread-crumbs)                                             | NYTimes         | 2024-06-15                       |
-| [cold sesame noodles with cuke, corn, basil](https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil)                       | NYTimes         | 2024-06-15                                 |
+| [cold sesame noodles with cuke, corn, basil](https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil)                       | NYTimes         | 2024-06-15                       |
+| [gnocchi with tomato and red onion](https://cooking.nytimes.com/recipes/1023260-crispy-gnocchi-with-tomato-and-red-onion)                                        | NYTimes         | 2024-06-16                                 |
 
