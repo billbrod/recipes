@@ -89,5 +89,10 @@
 | [tomato cheddar toasts](https://cooking.nytimes.com/recipes/1024469-tomato-cheddar-toasts)                                                                       | NYTimes         | 2024-06-15                       |
 | [raw zucchini salad with bread crumbs](https://cooking.nytimes.com/recipes/1025323-zucchini-salad-with-bread-crumbs)                                             | NYTimes         | 2024-06-15                       |
 | [cold sesame noodles with cuke, corn, basil](https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil)                       | NYTimes         | 2024-06-15                       |
-| [gnocchi with tomato and red onion](https://cooking.nytimes.com/recipes/1023260-crispy-gnocchi-with-tomato-and-red-onion)                                        | NYTimes         | 2024-06-16                                 |
+| [gnocchi with tomato and red onion](https://cooking.nytimes.com/recipes/1023260-crispy-gnocchi-with-tomato-and-red-onion)                                        | NYTimes         | 2024-06-16                       |
+| [North African no-mayo potato salad](https://www.eater.com/23733223/no-mayo-potato-salad-recipe-nasim-lahbichi)                                                  | Eater           | 2024-06-28                       |
+| [asparagus and white bean salad](https://www.eater.com/24156829/asparagus-white-bean-salad-recipe-for-one)                                                       | Eater           | 2024-06-28                       |
+| [bhaji sliders](https://cooking.nytimes.com/recipes/1025305-bhaji-sliders)                                                                                       | NYTimes         | 2024-06-28                       |
+| [halloumi, arugula, tomato sanadwiches](https://cooking.nytimes.com/recipes/1025590-halloumi-arugula-and-tomato-sandwiches)                                      | NYTimes         | 2024-06-28                       |
+| [Greek style rice pilaf with cihcken thighs](https://www.seriouseats.com/greek-style-pila-chicken-thighs-recipe)                                                 | Serious Eats    | 2024-06-28                                 |
 
