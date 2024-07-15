@@ -66,11 +66,9 @@
 | [stir-fried cuke with tofu](https://cooking.nytimes.com/recipes/1021338-stir-fried-cucumber-with-tofu)                                                           | NYTimes         | 2024-04-18                       |
 | [tofu larb](https://cooking.nytimes.com/recipes/1022299-tofu-larb)                                                                                               | NYTimes         | 2024-04-23                       |
 | [lime turmeric rice noodle salad with asparagus](https://tovegetableswithlove.substack.com/p/lime-turmeric-rice-noodles-salad)                                   | Hetty McKinnon  | 2024-04-23                       |
-| [spicy cucumbers with yogurt lemon and herbs](https://cooking.nytimes.com/recipes/1021278-spicy-cucumbers-with-yogurt-lemon-and-herbs)                           | NYTimes         | 2024-04-23                       |
 | [brown sugar cardamom cake](https://tastecooking.com/recipes/brown-sugar-cardamom-cake-with-coffee-glaze/)                                                       | TASTE           | 2024-04-26                       |
 | [miso-mascarpone pasta](https://cooking.nytimes.com/recipes/1025274-one-pot-miso-mascarpone-pasta)                                                               | NYTimes         | 2024-04-29                       |
 | [chili crisp tofu edameme fried rice](https://cooking.nytimes.com/recipes/1025020-chile-crisp-fried-rice-with-tofu-and-edamame)                                  | NYTimes         | 2024-05-03                       |
-| [spanakorizo with jammy eggs](https://cooking.nytimes.com/recipes/1025232-spanakorizo-with-jammy-eggs)                                                           | NYTimes         | 2024-05-13                       |
 | [cumin carrots with feta and chickpeas](https://tovegetableswithlove.substack.com/p/cumin-roasted-carrots-with-lemony)                                           | Hetty McKinnon  | 2024-05-13                       |
 | [cocoa brownies](https://smittenkitchen.com/2010/01/best-cocoa-brownies/)                                                                                        | Smitten Kitchen | 2024-05-17                       |
 | [chana masala](https://cooking.nytimes.com/recipes/1024429-chana-masala)                                                                                         | NYTimes         | 2024-05-18                       |
@@ -79,7 +77,6 @@
 | [creamy spicy tomato beans and greens](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens)                                         | NYTimes         | 2024-05-25                       |
 | [charred bok choy and bean salad](https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad)                                        | NYTimes         | 2024-05-25                       |
 | [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                       |
-| [esquites](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)                                                                                | Serious Eats    | 2024-05-29                       |
 | [brown butter bananarama cookies](https://www.seriouseats.com/banana-cookies-recipe-8648339)                                                                     | Serious Eats    | 2024-06-01                       |
 | [cauliflower sabzi](https://www.seriouseats.com/cauliflower-sabzi-recipe-8559944)                                                                                | Serious Eats    | 2024-06-01                       |
 | [vegetarian bean and cheese enchiladas](https://cooking.nytimes.com/recipes/1020244-vegetarian-bean-and-cheese-enchiladas)                                       | NYTimes         | 2024-06-08                       |
@@ -92,5 +89,8 @@
 | [asparagus and white bean salad](https://www.eater.com/24156829/asparagus-white-bean-salad-recipe-for-one)                                                       | Eater           | 2024-06-28                       |
 | [halloumi, arugula, tomato sanadwiches](https://cooking.nytimes.com/recipes/1025590-halloumi-arugula-and-tomato-sandwiches)                                      | NYTimes         | 2024-06-28                       |
 | [Greek style rice pilaf with cihcken thighs](https://www.seriouseats.com/greek-style-pila-chicken-thighs-recipe)                                                 | Serious Eats    | 2024-06-28                       |
-| [braised winter melon](https://thewoksoflife.com/braised-winter-melon/)                                                                                          | Woks of Life    | 2024-07-05                                 |
+| [braised winter melon](https://thewoksoflife.com/braised-winter-melon/)                                                                                          | Woks of Life    | 2024-07-05                       |
+| [palmitos aguachile verde](https://cooking.nytimes.com/recipes/1022456-palmitos-aguachile-verde-chile-lime-hearts-of-palm)                                       | NYTimes         | 2024-07-14                       |
+| [curry tomatoes and chickpeas with yogurt](https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt)                        | NYTimes         | 2024-07-14                       |
+| [chile crisp tofu with tomatoes and cucumbers](https://cooking.nytimes.com/recipes/1025660-chile-crisp-tofu-tomatoes-and-cucumbers)                              | NYTimes         | 2024-07-14                                 |
 
