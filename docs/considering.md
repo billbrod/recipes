@@ -74,7 +74,6 @@
 | [chana masala](https://cooking.nytimes.com/recipes/1024429-chana-masala)                                                                                         | NYTimes         | 2024-05-18                       |
 | [roasted broccoli and chickpeas with mole verde](https://cooking.nytimes.com/recipes/1025301-roasted-broccoli-and-chickpeas-with-mole-verde)                     | NYTimes         | 2024-05-18                       |
 | [spaghetti squash with scallion oil](https://thewoksoflife.com/spaghetti-squash-salad-scallion-oil/)                                                             | Woks of Life    | 2024-05-21                       |
-| [creamy spicy tomato beans and greens](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens)                                         | NYTimes         | 2024-05-25                       |
 | [charred bok choy and bean salad](https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad)                                        | NYTimes         | 2024-05-25                       |
 | [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                       |
 | [brown butter bananarama cookies](https://www.seriouseats.com/banana-cookies-recipe-8648339)                                                                     | Serious Eats    | 2024-06-01                       |
@@ -92,5 +91,8 @@
 | [braised winter melon](https://thewoksoflife.com/braised-winter-melon/)                                                                                          | Woks of Life    | 2024-07-05                       |
 | [palmitos aguachile verde](https://cooking.nytimes.com/recipes/1022456-palmitos-aguachile-verde-chile-lime-hearts-of-palm)                                       | NYTimes         | 2024-07-14                       |
 | [curry tomatoes and chickpeas with yogurt](https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt)                        | NYTimes         | 2024-07-14                       |
-| [chile crisp tofu with tomatoes and cucumbers](https://cooking.nytimes.com/recipes/1025660-chile-crisp-tofu-tomatoes-and-cucumbers)                              | NYTimes         | 2024-07-14                                 |
+| [chile crisp tofu with tomatoes and cucumbers](https://cooking.nytimes.com/recipes/1025660-chile-crisp-tofu-tomatoes-and-cucumbers)                              | NYTimes         | 2024-07-14                       |
+| [cold tofu salad with tomates and peaches](https://cooking.nytimes.com/recipes/1022319-cold-tofu-salad-with-tomatoes-and-peaches)                                | NYTimes         | 2024-07-18                       |
+| [tomato and peach salad with berkoukes](https://cooking.nytimes.com/recipes/1025565-tomato-and-peach-salad-with-berkoukes)                                       | NYTimes         | 2024-07-18                       |
+| [quick pickled plums](https://tastecooking.com/recipes/quick-pickled-plums/)                                                                                     | TASTE           | 2024-07-18                                 |
 
