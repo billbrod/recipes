@@ -94,5 +94,12 @@
 | [chile crisp tofu with tomatoes and cucumbers](https://cooking.nytimes.com/recipes/1025660-chile-crisp-tofu-tomatoes-and-cucumbers)                              | NYTimes         | 2024-07-14                       |
 | [cold tofu salad with tomates and peaches](https://cooking.nytimes.com/recipes/1022319-cold-tofu-salad-with-tomatoes-and-peaches)                                | NYTimes         | 2024-07-18                       |
 | [tomato and peach salad with berkoukes](https://cooking.nytimes.com/recipes/1025565-tomato-and-peach-salad-with-berkoukes)                                       | NYTimes         | 2024-07-18                       |
-| [quick pickled plums](https://tastecooking.com/recipes/quick-pickled-plums/)                                                                                     | TASTE           | 2024-07-18                                 |
+| [quick pickled plums](https://tastecooking.com/recipes/quick-pickled-plums/)                                                                                     | TASTE           | 2024-07-18                       |
+| [shanghai fried noodles](https://thewoksoflife.com/shanghai-fried-noodles/)                                                                                      | Woks of Life    | 2024-08-04                       |
+| [orzo salad with lentils and zucchini](https://cooking.nytimes.com/recipes/1023338-orzo-salad-with-lentils-and-zucchini)                                         | NYTimes         | 2024-08-04                       |
+| [charred corn and chickpea salad](https://cooking.nytimes.com/recipes/1025674-charred-corn-and-chickpea-salad-with-lime-crema)                                   | NYTimes         | 2024-08-04                       |
+| [stuffed pepper tacos](https://cooking.nytimes.com/recipes/1025572-stuffed-pepper-tacos)                                   | NYTimes         | 2024-08-04                       |
+| [basil and tomato fried rice](https://cooking.nytimes.com/recipes/1023380-basil-and-tomato-fried-rice)                                   | NYTimes         | 2024-08-04                       |
+| [tomato butter pasta](https://cooking.nytimes.com/recipes/1022464-tomato-butter-pasta)                                   | NYTimes         | 2024-08-04                       |
+| [grated tomato pasta](https://cooking.nytimes.com/recipes/1024307-grated-tomato-pasta)                                   | NYTimes         | 2024-08-04                       |
 
