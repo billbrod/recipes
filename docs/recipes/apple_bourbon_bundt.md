@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:desserts
+  - dish:dessert
   - ingredient:apple
 ---
 # Apple Bourbon Bundt Cake

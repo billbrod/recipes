@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:desserts
+  - dish:dessert
   - ingredient:cocoa
   - ingredient:condensed milk
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:desserts
+  - dish:dessert
   - ingredient:pistachio
   - context:holiday
 ---

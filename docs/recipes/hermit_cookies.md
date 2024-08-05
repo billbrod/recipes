@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:desserts
+  - dish:dessert
 ---
 <!-- Tags can have colon, but no space around it -->
 
