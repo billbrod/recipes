@@ -103,5 +103,6 @@
 | [tomato butter pasta](https://cooking.nytimes.com/recipes/1022464-tomato-butter-pasta)                                                                           | NYTimes         | 2024-08-04                       |
 | [grated tomato pasta](https://cooking.nytimes.com/recipes/1024307-grated-tomato-pasta)                                                                           | NYTimes         | 2024-08-04                       |
 | [tea ice cream](https://leafhopper.substack.com/p/tea-ice-cream)                                                                                                 | Max Falkowitz   | 2024-08-04                       |
-| [eggplant, zucchini, halloumi bake](https://tovegetableswithlove.substack.com/p/hellimli-sebzeli-kebap-eggplant-zucchini)                                        | Hetty McKinnon  | 2024-08-04                                 |
+| [eggplant, zucchini, halloumi bake](https://tovegetableswithlove.substack.com/p/hellimli-sebzeli-kebap-eggplant-zucchini)                                        | Hetty McKinnon  | 2024-08-04                       |
+| [banoffee pie](https://www.seriouseats.com/banoffee-pie-recipe-8646124)                                                                                          | Serious Eats    | 2024-08-07                                 |
 
