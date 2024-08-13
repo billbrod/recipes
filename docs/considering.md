@@ -107,4 +107,11 @@
 | [banoffee pie](https://www.seriouseats.com/banoffee-pie-recipe-8646124)                                                                                          | Serious Eats    | 2024-08-07                       |
 | [succotash](https://cooking.nytimes.com/recipes/1016611-big-bowl-with-spicy-brown-bean-squash-and-corn-succotash)                                                | NYTimes         | 2024-08-13                       |
 | [bibim guksu](https://www.seriouseats.com/quick-easy-bibim-guksu-recipe-8680707) (Korean cold spicy noodles)                                                     | Serious Eats    | 2024-08-13                       |
+| [roasted sweet potato and spinach with feta and pickled jalapenos](https://cooking.nytimes.com/recipes/1023553-roasted-sweet-potatoes-and-spinach-with-feta)     | NYTimes         | 2024-08-13                       |
+| [green peach salad with lime dressing](https://cooking.nytimes.com/recipes/1019255-green-peach-salad-with-simple-lime-dressing)                                  | NYTimes         | 2024-08-13                       |
+| [crispy mushroom tacos](https://cooking.nytimes.com/recipes/1022424-crispy-mushroom-tacos)                                                                       | NYTimes         | 2024-08-13                       |
+| [oven steamed fish](https://www.foodgal.com/2019/01/the-genius-of-oven-steamed-fish/)                                                                            | Julia Turshen   | 2024-08-13                       |
+| [parchment-baked fish with chermoula](https://www.saveur.com/parchment-baked-fish-with-north-african-chermoula-sauce-recipe/)                                    | Julia Turshen   | 2024-08-13                       |
+| [tomato and gruyere clafoutis](https://tovegetableswithlove.substack.com/p/tomato-and-gruyere-clafoutis)                                                         | Hetty McKinnon  | 2024-08-13                       |
+| [tuna floss](https://thatonedish.substack.com/p/crossroads-no-5-joanne-changs-tuna)                                                                              | That One Dish   | 2024-08-13                       |
 
