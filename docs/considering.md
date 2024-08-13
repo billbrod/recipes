@@ -106,4 +106,5 @@
 | [eggplant, zucchini, halloumi bake](https://tovegetableswithlove.substack.com/p/hellimli-sebzeli-kebap-eggplant-zucchini)                                        | Hetty McKinnon  | 2024-08-04                       |
 | [banoffee pie](https://www.seriouseats.com/banoffee-pie-recipe-8646124)                                                                                          | Serious Eats    | 2024-08-07                       |
 | [succotash](https://cooking.nytimes.com/recipes/1016611-big-bowl-with-spicy-brown-bean-squash-and-corn-succotash)                                                | NYTimes         | 2024-08-13                       |
+| [bibim guksu](https://www.seriouseats.com/quick-easy-bibim-guksu-recipe-8680707) (Korean cold spicy noodles)                                                     | Serious Eats    | 2024-08-13                       |
 
