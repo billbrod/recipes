@@ -104,5 +104,6 @@
 | [grated tomato pasta](https://cooking.nytimes.com/recipes/1024307-grated-tomato-pasta)                                                                           | NYTimes         | 2024-08-04                       |
 | [tea ice cream](https://leafhopper.substack.com/p/tea-ice-cream)                                                                                                 | Max Falkowitz   | 2024-08-04                       |
 | [eggplant, zucchini, halloumi bake](https://tovegetableswithlove.substack.com/p/hellimli-sebzeli-kebap-eggplant-zucchini)                                        | Hetty McKinnon  | 2024-08-04                       |
-| [banoffee pie](https://www.seriouseats.com/banoffee-pie-recipe-8646124)                                                                                          | Serious Eats    | 2024-08-07                                 |
+| [banoffee pie](https://www.seriouseats.com/banoffee-pie-recipe-8646124)                                                                                          | Serious Eats    | 2024-08-07                       |
+| [succotash](https://cooking.nytimes.com/recipes/1016611-big-bowl-with-spicy-brown-bean-squash-and-corn-succotash)                                                | NYTimes         | 2024-08-13                       |
 
