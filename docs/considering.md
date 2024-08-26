@@ -112,6 +112,5 @@
 | [crispy mushroom tacos](https://cooking.nytimes.com/recipes/1022424-crispy-mushroom-tacos)                                                                       | NYTimes         | 2024-08-13                       |
 | [oven steamed fish](https://www.foodgal.com/2019/01/the-genius-of-oven-steamed-fish/)                                                                            | Julia Turshen   | 2024-08-13                       |
 | [parchment-baked fish with chermoula](https://www.saveur.com/parchment-baked-fish-with-north-african-chermoula-sauce-recipe/)                                    | Julia Turshen   | 2024-08-13                       |
-| [tomato and gruyere clafoutis](https://tovegetableswithlove.substack.com/p/tomato-and-gruyere-clafoutis)                                                         | Hetty McKinnon  | 2024-08-13                       |
 | [tuna floss](https://thatonedish.substack.com/p/crossroads-no-5-joanne-changs-tuna)                                                                              | That One Dish   | 2024-08-13                       |
 
