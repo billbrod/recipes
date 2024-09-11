@@ -75,7 +75,6 @@
 | [roasted broccoli and chickpeas with mole verde](https://cooking.nytimes.com/recipes/1025301-roasted-broccoli-and-chickpeas-with-mole-verde)                     | NYTimes         | 2024-05-18                       |
 | [spaghetti squash with scallion oil](https://thewoksoflife.com/spaghetti-squash-salad-scallion-oil/)                                                             | Woks of Life    | 2024-05-21                       |
 | [charred bok choy and bean salad](https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad)                                        | NYTimes         | 2024-05-25                       |
-| [lemongrass tofu and broccoli](https://cooking.nytimes.com/recipes/1025400-lemongrass-tofu-and-broccoli)                                                         | NYTimes         | 2024-05-27                       |
 | [brown butter bananarama cookies](https://www.seriouseats.com/banana-cookies-recipe-8648339)                                                                     | Serious Eats    | 2024-06-01                       |
 | [cauliflower sabzi](https://www.seriouseats.com/cauliflower-sabzi-recipe-8559944)                                                                                | Serious Eats    | 2024-06-01                       |
 | [vegetarian bean and cheese enchiladas](https://cooking.nytimes.com/recipes/1020244-vegetarian-bean-and-cheese-enchiladas)                                       | NYTimes         | 2024-06-08                       |
