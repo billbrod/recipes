@@ -1,5 +1,5 @@
 document$.subscribe(function() {
-    const toggle = '<label for="wakelock-toggle">Keep screen on<label class="switch"> <input id="wakelock-toggle" type="checkbox"> <span class="slider round"></span> </label></label>'
+    const toggle = '<label class="wakelock" for="wakelock-toggle">Keep screen on<label class="switch"> <input id="wakelock-toggle" type="checkbox"> <span class="slider round"></span> </label></label>'
     $("#ingredients").before(toggle)
     let wakelock;
     const canWakeLock = () => 'wakeLock' in navigator;

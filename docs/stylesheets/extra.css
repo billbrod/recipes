@@ -81,7 +81,7 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
-label {
+label.wakelock {
   display: flex;
   flex-direction: row;
   justify-content: center;
