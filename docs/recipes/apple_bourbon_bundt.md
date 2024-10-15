@@ -39,5 +39,9 @@ tags:
 5. While the cake cools, combine the *.5*{.ingredient-num} cup granulated sugar and *.5*{.ingredient-num} cup whiskey in a small saucepan. Over low heat, gently stir until the sugar dissolves. Stir in the lemon juice and take off the heat.
 6. While the cake cools, make 10 slits on top with a paring knife and pour half the bourbon-sugar mixture on the still-warm cake. When the cake is fully cool, flip it and pour the rest of the glaze on the other side, then flip again to serve.
 
+## Source
+
+[NYTimes](https://cooking.nytimes.com/recipes/1013937-apple-bourbon-bundt-cake)
+
 ## Comments
 

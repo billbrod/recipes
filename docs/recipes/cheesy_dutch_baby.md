@@ -32,7 +32,9 @@ tags:
 2. Melt the butter in a 10-inch, oven-safe frying pan (such as cast iron—the pan cannot be non-stick) over medium. Swirl so it coats the entire bottom of the pan. Pour the egg mixture into the melted butter. Sprinkle with the remaining cheese. Transfer the pan to the oven and bake 12 to 15 minutes, or until the mixture puffs up and browns across the top.
 3. While the Dutch baby cooks, whisk the oil, vinegar and salt in a large bowl until combined. Add the greens, tomatoes and onions and toss to coat. Pile the salad into the centre of the hot Dutch baby and serve immediately, cut into wedges.
 
-Source: Stained Page News (email newsletter)
+## Source
+
+Stained Page News (email newsletter)
 
 
 ## Comments

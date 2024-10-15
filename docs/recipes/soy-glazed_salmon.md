@@ -36,8 +36,8 @@ This tasty, simple salmon recipe is from Anne Ford, of Palo Alto, California.
 2. Cut salmon fillet into 4 equal-size pieces; arrange, skin side down, in a single layer in a baking dish. Pour glaze over the fish, and turn to coat evenly.
 3. Bake until fish is opaque but still bright pink inside, basting every few minutes with glaze from baking dish, 15 to 20 minutes. Serve with lemon wedges.
 
-## Notes
-
 ## Source
 
 [Martha Stewart](https://www.marthastewart.com/314009/soy-glazed-salmon)
+
+## Comments

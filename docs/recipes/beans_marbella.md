@@ -15,6 +15,8 @@ Add the beans and just enough of the cooking liquid to cover them. Taste and sea
 
 I used fingerlings because they’re at the farmers’ markets right now in Los Angeles, but I think that salad-y topping over the beans could just as easily have been made with browned summer squash, or roasted artichokes, or just some nice torn salad leaves and herbs.
 
-Source: Tejal Rao's NYTimes Vegetarian newsletter
+## Source
+
+Tejal Rao's NYTimes Vegetarian newsletter
 
 ## Comments
