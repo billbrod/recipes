@@ -60,3 +60,4 @@ us to properly change the number when changing the serves value. -->
 ## Comments
 
 - 2024-04-16: this was delicious and pretty straightforward. I tried to get the bottom to crisp in my enameled Dutch Oven and it didn't really work: got stuck and hard to remove, though I was able to remove them after I put the lid back on (with heat off) and some of the condensation dripped back down. not perfect, could look into tahdig strategies (or try regular cast iron?) to see if I could have more success
+- 2024-11-24: crisped up very nicely in the regular cast iron dutch oven.
