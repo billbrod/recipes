@@ -6,7 +6,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Recipe title
+# Hot and sour cabbage
 
 ![Recipe picture](../images/hot-sour-cabbage-13-1078x1536.jpg)
 
