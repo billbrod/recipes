@@ -10,7 +10,7 @@ tags:
 
 ![Recipe picture](../images/maqlubeh-0.jpg)
 
-- Serves: 1
+- Serves: 8
 { #serves }
 - Working time: 100
 - Waiting time: 20
@@ -75,4 +75,14 @@ Layers of meat, fried vegetables, and spiced rice flipped over to reveal a compl
 
 [Serious Eats](https://www.seriouseats.com/maqlubeh-recipe-5704126)
 
+##  Notes
+
+If you do not have all the whole spices for the broth, substitute with 1 teaspoon ground cinnamon, 1 teaspoon ground allspice, 1/2 teaspoon ground black pepper, 1/4 teaspoon ground cardamom and 1/4 teaspoon ground cloves. Or, in a pinch, with 1 tablespoon of ground Lebanese 7 Spice.
+
+If you do not have jasmine rice, you can use Calrose rice or another long grain rice such as Basmati. 
+
+If you prefer your rice and chicken crispier, set the pot on the lowest heat for at least 30 minutes and up to 1 hour right after covering it with the lid and tea towel in Step 11. This will keep the dish warm and allow the rice and chicken skin to crisp up more.  
+
 ## Comments
+
+- 2024-12-24: made this for the second time and it was delicious. made it in enameled Dutch oven, just greasing it with canola oil (instead of using ghee and parchment paper), and turned the heat on low for the final rest. Some chicken and rice stuck to the bottom, but was easy enough to scrape off.
