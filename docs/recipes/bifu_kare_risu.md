@@ -71,6 +71,7 @@ us to properly change the number when changing the serves value. -->
 ### Notes
 
 Variations:
+
 - This curry can be made with chicken instead of beef. Use an equal amount of boneless, skin-on chicken thighs, browning them skin-side down as you would the beef, or with an assortment of chicken parts (though if you use white meat, you want to pull those pieces from the curry sauce sooner, so they don’t dry out).
 - Whole boiled eggs are also a good addition to a chicken version, making it another Oyako, “mother and child” dish (akin to oyakodon).
 - As for vegetables, kabocha squash is a nice addition, although its cooking time is shorter, so you’ll want to add it just 10 minutes before the curry is finished.
