@@ -2,7 +2,7 @@
 tags:
   - dish:sides
   - ingredient:asparagus
-  - difficulty:easy,involved
+  - difficulty:easy
 ---
 <!-- Tags can have colon, but no space around it -->
 

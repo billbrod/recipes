@@ -1,6 +1,6 @@
 ---
 tags:
-  - dish:drinks
+  - dish:drink
   - ingredient:dried apple
 ---
 # Apple Sujeonggwa (Korean Cinnamon-Ginger Punch)
