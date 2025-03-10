@@ -4,6 +4,9 @@
 
 - Swiffer solution: equal parts water and vinegar, 1-2 drops dish soap, couple
   drops of essential oil (from [here](https://helloglow.co/diy-swiffer-pads/))
+- Shower cleaning spray: 1 part white vinegar or rubbing alcohol to 3 parts
+  water, 5 drops essential oil (from
+  [here](https://housewifehowtos.com/clean/homemade-daily-shower-spray-recipe/))
 
 ## Baby
 
