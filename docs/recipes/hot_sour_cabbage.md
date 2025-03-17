@@ -28,11 +28,11 @@ This easy Hot & Sour Cabbage stir-fry shines with thin slices of cabbage that co
 and no spaces between the numbers. -->
 - 3 tablespoons neutral oil (such as canola, vegetable, or avocado oil)
 - 4 cloves garlic (finely chopped)
-- 1.5 doubanjiang (spicy bean sauce)
+- 1.5 Tbsp doubanjiang (spicy bean sauce)
 - 2 pounds Taiwanese cabbage (washed and thinly sliced; about 1 medium-sized cabbage)
 - 1 tablespoon Chinese black vinegar
-- 1.5 soy sauce
-- .5 sesame oil
+- 1.5 tsp soy sauce
+- .5 tsp sesame oil
 - .25 teaspoon white pepper
 - .25 teaspoon sugar
 - .25 cup water
