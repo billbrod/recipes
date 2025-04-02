@@ -26,13 +26,13 @@ This is Italian country cooking at its best, a simple dish that requires few ing
 
 <!-- Decimals are allowed, fractions are not. For ranges, use only a single dash
 and no spaces between the numbers. -->
-- 1 generous bunch broccoli (about 1.75)
+- 1 generous bunch broccoli (about 1.75 lb)
 - Salt and black pepper
 - 1 pound fusilli pasta
 - 3 tablespoons extra-virgin olive oil
 - 2 garlic cloves, minced
 - 4 to 5 anchovy fillets (to taste), rinsed and chopped
-- .5 red pepper flakes (optional)
+- .5 tsp red pepper flakes (optional)
 - Freshly grated Parmesan or pecorino, for serving
 
 ## Directions
