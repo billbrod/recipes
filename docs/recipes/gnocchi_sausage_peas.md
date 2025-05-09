@@ -55,3 +55,4 @@ us to properly change the number when changing the serves value. -->
 ## Comments
 
 - 2024-06-05: this was really good! I used cevapi, and it probably didn't need the full pound (maybe half or three-quarters). I also replaced the Parmesan with 3 Tbsp nutritional yeast, the water with .5 cup bean cooking broth + 1 Tbsp dry vermouth, added 3 scallions. some comments suggested garlic and pepper flakes, would probably be good.
+- 2025-05-01: made this with some nettles (instead of the herbs) and it worked great
