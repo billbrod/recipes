@@ -1,7 +1,6 @@
 ---
 tags:
   - dish:drink
-  - protein:cider
 ---
 <!-- Tags can have colon, but no space around it -->
 
