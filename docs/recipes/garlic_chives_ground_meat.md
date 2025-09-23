@@ -35,7 +35,7 @@ and no spaces between the numbers. -->
 - .25 sugar
 - .5 tablespoon ginger (finely chopped)
 - 1 tablespoon garlic (finely chopped)
-- .25 fermented black beans (35 grams, rinsed and drained)
+- .25 cup fermented black beans (35 grams, rinsed and drained)
 - .5 cup red long hot peppers (or red bell peppers, finely diced)
 - 12 ounces garlic chives (cut into ⅓-inch pieces)
 - .5 teaspoon sesame oil
