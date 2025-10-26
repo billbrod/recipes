@@ -10,6 +10,7 @@ tags:
 ![Recipe picture](../images/cantonese-style_steamed_tofu-0.png)
 
 - Serves: 2
+{ #serves }
 - Prep Time: 10 minutes
 - Cook Time: 15 minutes
 - Total Time: 25 minutes

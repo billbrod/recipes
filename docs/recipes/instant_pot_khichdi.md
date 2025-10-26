@@ -10,6 +10,7 @@ tags:
 ![Recipe picture](../images/instant_pot_khichdi-0.png)
 
 - Serves: 4
+{ #serves }
 - Time: 45 minutes
 - Date added: 2024-03-21
 

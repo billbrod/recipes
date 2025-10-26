@@ -8,6 +8,8 @@ tags:
 
 ![Recipe picture](../images/brigadeiros-0.png)
 
+- Serves: 1 batch
+{ #serves }
 - Date added: 2023-08-27
 
 ## Description
