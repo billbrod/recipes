@@ -7,6 +7,7 @@
 - Shower cleaning spray: 1 part white vinegar or rubbing alcohol to 3 parts
   water, 5 drops essential oil (from
   [here](https://housewifehowtos.com/clean/homemade-daily-shower-spray-recipe/))
+- Fruit fly trap: .25 cup apple cider vinegar with a few drops of liquid dish soap in a mason jar with plastic wrap with holes poked in it (from [here](https://www.thekitchn.com/apple-cider-vinegar-diy-fruit-fly-trap-23670359)).
 
 ## Baby
 
