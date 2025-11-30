@@ -7,7 +7,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Recipe title
+# Cheesy sweet potato enchiladas
 
 ![Recipe picture](../images/20251016-SEA-20250922-SEA-SweetPotatoEnchiladas-MorganHuntWard-01-0a493acf357348fba7b835633bc75171.jpg)
 
