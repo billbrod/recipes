@@ -5,7 +5,7 @@ tags:
 ---
 <!-- Tags can have colon, but no space around it -->
 
-# Recipe title
+# Daqoos
 
 ![Recipe picture](../images/20251024-SEA-Dakous-AmandaSuarez-10-cf0538144bba4257a9678a68be1beade.jpg)
 
