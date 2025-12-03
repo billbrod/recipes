@@ -37,12 +37,12 @@ and no spaces between the numbers. -->
 - 1.5 ground turmeric
 - .5 to 1 teaspoon red-pepper flakes
 ### For the Stir-fry
- 1 (14- to 16-ounce) block extra-firm tofu, drained and cut into 1-inch cubes
- 1 yellow onion, halved and thinly sliced
- 1 pound broccoli, cut into small florets and halved
- Salt and pepper
- Big handful chopped cilantro or scallions
- Cooked rice, rice noodles or glass noodles, for serving
+- 1 (14- to 16-ounce) block extra-firm tofu, drained and cut into 1-inch cubes
+- 1 yellow onion, halved and thinly sliced
+- 1 pound broccoli, cut into small florets and halved
+- Salt and pepper
+- Big handful chopped cilantro or scallions
+- Cooked rice, rice noodles or glass noodles, for serving
 ## Directions
 
 <!-- If you have a direction that refers to a number of some ingredient, wrap
