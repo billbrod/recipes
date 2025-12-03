@@ -34,7 +34,7 @@ and no spaces between the numbers. -->
 - 4 tablespoons canola or other neutral oil
 - 8 teaspoons sesame oil
 - 1 tablespoon granulated sugar
-- 1.5 ground turmeric
+- 1.5 tsp ground turmeric
 - .5 to 1 teaspoon red-pepper flakes
 ### For the Stir-fry
 - 1 (14- to 16-ounce) block extra-firm tofu, drained and cut into 1-inch cubes
