@@ -32,7 +32,7 @@ You could eat this kuku with any sauce you have around. Yoghurt is a great optio
 
 <!-- Decimals are allowed, fractions are not. For ranges, use only a single dash
 and no spaces between the numbers. -->
-extra virgin olive oil
+- extra virgin olive oil
 - 1 onion, any colour, sliced
 - 1 leek, thinly slice
 - salt and pepper
