@@ -44,6 +44,10 @@ Short things that I often refer back to.
 
 ## Bean cooking times
 
+- 1lb of dry beans: 5 to 6 cups cooked beans plus 2 to 3 cups liquid
+- 1 can of beans: 1.5 to 1.75 cups cooked beans plus .5 to .75 cups liquid
+- 1lb of dry beans: 3 to 4 cans of beans
+
 From Cool Beans and [this
 pdf](https://static1.squarespace.com/static/560ad766e4b0bd9a7a2bdab8/t/5e95f2b52aae8d6545a08797/1586885302075/pressure_cooking.pdf)
 which seems to be from an unaffiliated facebook group but has the Rancho Gordo

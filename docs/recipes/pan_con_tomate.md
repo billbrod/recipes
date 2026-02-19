@@ -2,9 +2,6 @@
 tags:
   - dish:sides
   - ingredient:tomato
-  - cuisine:thai,chinese,etc
-  - context:entertaining,holiday
-  - difficulty:easy,involved
 ---
 <!-- Tags can have colon, but no space around it -->
 
