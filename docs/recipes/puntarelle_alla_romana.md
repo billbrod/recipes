@@ -7,7 +7,7 @@ tags:
 
 # Puntarelle alla romana
 
-![Recipe picture](../images/image.jpg)
+![Recipe picture](../images/puntarelle_alla_romana.webp)
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->

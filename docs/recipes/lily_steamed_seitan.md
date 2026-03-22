@@ -8,7 +8,7 @@ tags:
 
 # Steamed seitan with mushrooms and dried lily flowers
 
-![Recipe picture](../images/image.jpg)
+![Recipe picture](../images/lily_steamed_seitan.jpg)
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->

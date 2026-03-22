@@ -8,7 +8,7 @@ tags:
 
 # Chinese Ginger Milk Curd
 
-![Recipe picture](../images/image.jpg)
+![Recipe picture](../images/20251210-3-ingredient-Ginger-Pudding-Qi-Ai-hero-vertical-B06-b58df66867074b7583a1935598faff7a.jpg)
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->

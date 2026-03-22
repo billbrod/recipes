@@ -8,7 +8,7 @@ tags:
 
 # Stir-fried Chinese Mustard Greens (Xuelihong)
 
-![Recipe picture](../images/image.jpg)
+![Recipe picture](../images/chinese-mustard-greens-5.jpg)
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->
