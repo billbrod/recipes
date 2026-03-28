@@ -59,4 +59,5 @@ If you don’t have orange blossom water on hand, you may swap in the zest of 1 
 
 ## Comments
 
-- 2026-03-22: made 18 instead of 14 (as original recipe called for) following suggestion in comment. also used a mix of superfine almond flour and whole almonds (with skin) ground in bullet for a bit. 
+- 2026-03-22: made 18 instead of 14 (as original recipe called for) following suggestion in comment. also used a mix of superfine almond flour and whole almonds (with skin) ground in bullet for a bit.
+- 2026-03-28: made with all almonds ground in bullet. they started to turn into almond butter and so dough was really wet and cookies didn't hold their shape, spreading out a lot. ended up baking for 18 or 19 minutes, until edges golden. in future, grind almonds in batches to avoid that? or add in some flour if dough too wet
