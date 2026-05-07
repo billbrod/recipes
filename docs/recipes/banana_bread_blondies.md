@@ -1,7 +1,7 @@
 ---
 tags:
   - dish:dessert
-  - ingredient:banan
+  - ingredient:banana
 ---
 <!-- Tags can have colon, but no space around it -->
 
