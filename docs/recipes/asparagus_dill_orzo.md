@@ -53,3 +53,5 @@ us to properly change the number when changing the serves value. -->
 [Hettie McKinnon](https://hettymckinnon.com/recipes/one-pot-orzo-with-asparagus-lemon-and-dill)
 
 ## Comments
+
+- 2026-05-09: doubled the amount of butter and miso, was excellent.
