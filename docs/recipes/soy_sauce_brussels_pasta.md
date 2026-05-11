@@ -59,3 +59,4 @@ us to properly change the number when changing the serves value. -->
 ## Comments
 
 - 2026-03-22: really good, replaced brussels with cabbage
+- 2026-05-10: when using cabbage, I think needs more than 1 lb, maybe even 2. also, following recipe as above and salting pasta water as normal, recipe is on the salty side. adding 1 Tbsp sugar at end helps.
