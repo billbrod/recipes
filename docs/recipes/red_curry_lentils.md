@@ -2,7 +2,7 @@
 tags:
   - dish:main
   - protein:lentils
-  - ingredient:sweet potato
+  - ingredient:sweet potatoes
   - cuisine:thai
 ---
 # Red Curry Lentils With Sweet Potatoes and Spinach
