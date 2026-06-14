@@ -1,7 +1,7 @@
 ---
 tags:
   - dish:sides
-  - ingredient:potatoes
+  - ingredient:potato
   - context:holiday
 ---
 <!-- Tags can have colon, but no space around it -->
