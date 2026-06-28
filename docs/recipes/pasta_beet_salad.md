@@ -2,6 +2,7 @@
 tags:
   - dish:main
   - ingredient:pasta
+  - ingredient:beet
   - difficulty:easy
 ---
 <!-- Tags can have colon, but no space around it -->
