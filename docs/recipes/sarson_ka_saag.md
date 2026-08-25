@@ -20,7 +20,7 @@ values can be added (e.g., "active time", "cooking time", etc) -->
 - Date added: 2024-09-22
 
 ## Description
-Buttery, creamy, and nutritious mustard greens cooked with fresh aromatics, this Punjabi-style Sarson ka Saag is a winter staple from the northern-Indian region. This authentic family recipe for spiced, pureed greens is best paired with a cornmeal flatbread called [makki ki roti](makka_ki_roti.md).
+Buttery, creamy, and nutritious mustard greens cooked with fresh aromatics, this Punjabi-style Sarson ka Saag is a winter staple from the northern-Indian region. This authentic family recipe for spiced, pureed greens is best paired with a cornmeal flatbread called [makki ki roti](makki_ki_roti.md).
 
 ## Ingredients { #ingredients }
 

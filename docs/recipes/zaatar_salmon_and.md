@@ -6,7 +6,7 @@ tags:
 ---
 # Za’atar Salmon and Tahini
 
-![Recipe picture](../images/za’atar_salmon_and-0.png)
+![Recipe picture](../images/zaatar_salmon_and-0.png)
 
 - Serves: 4
 { #serves }

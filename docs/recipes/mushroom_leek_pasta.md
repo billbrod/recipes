@@ -9,7 +9,7 @@ tags:
 
 # One-pot mushroom and leek pasta
 
-![Recipe picture](../images/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-master768.webp)
+![Recipe picture](../images/mushroom_leek_pasta.webp)
 
 <!-- Serves has to be a single number, no dashes, but text is allowed after the
 number (e.g., 24 cookies) -->

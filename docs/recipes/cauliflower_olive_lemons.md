@@ -6,7 +6,7 @@ tags:
 ---
 # Roast cauliflower with olives and preserved lemons
 
-![Recipe picture](../images/cauliflower_olive_lemons.md)
+![Recipe picture](../images/cauliflower_olive_lemons.png)
 
 
 - Serves: 3 (as a main, more as a side)
