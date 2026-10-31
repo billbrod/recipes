@@ -1,7 +1,7 @@
 ---
 tags:
   - dish:sides
-  - ingredient:carrots
+  - ingredient:carrot
   - cuisine:indian
   - difficulty:easy
 ---
